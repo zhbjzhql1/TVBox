@@ -1,14 +1,13 @@
-//=============多仓更新日期 2023/05/21=============
+//=============多仓更新日期 2023/05/29=============
 
 //本多仓仓库在线链接：
 //https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
-//https://cdn.staticaly.com/gh/mengzehe/tvbox/main/duocang.txt
-//https://cdn.statically.io/gh/mengzehe/TVBox/main/duocang.txt
+
 
 {"storeHouse": 
 [ 
-{"sourceName":"自用在线仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json" }, 
-{"sourceName":"放学回家仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dc1-0522.json" }, 
+{"sourceName":"自己专用仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku.json" }, 
+{"sourceName":"放学回家仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro528.json" }, 
 {"sourceName":"云星在线仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
 {"sourceName":"奇奇在线仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
 //{"sourceName":"多多聚合多仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/fast.json"},
