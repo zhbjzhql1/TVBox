@@ -6,6 +6,12 @@
 {"urls":
 [
 //{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/luxian.json","name": "自己专用"},
+{"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/影视/api.json","name":"PizazzGY影视"},
+{"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/动漫/api.json","name":"PizazzGY动漫"},
+{"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/体育/api.json","name":"PizazzGY体育"},
+{"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/教育/api.json","name":"PizazzGY教育"},
+{"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/直播/api.json","name":"PizazzGY直播"},
+{"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/云盘/api.json","name":"PizazzGY云盘"},
 {"url":"http://饭太硬.ga/tv/","name": "饭太硬线"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/master531.json","name": "DYM精选1"},
 {"url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json","name": "DYM精选2"},
