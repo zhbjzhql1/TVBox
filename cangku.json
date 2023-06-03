@@ -5,7 +5,7 @@
 
 {"urls":
 [
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/luxian.json","name": "自己专用"},
+//{"url":"https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/luxian.json","name": "自己专用"},
 {"url":"http://饭太硬.ga/tv/","name": "饭太硬线"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/master531.json","name": "DYM精选1"},
 {"url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json","name": "DYM精选2"},
