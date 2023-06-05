@@ -45,8 +45,8 @@ CCTV16,mitv://generationnexxxt.com:19806/c2001475104d47b9815a8c3e5e73a761
 爱奇艺,mitv://generationnexxxt.com:19806/206defdef43a42fb8ee50238e76ac32c
 
 港澳特区,#genre#
-凤凰中文台,mitv://generationnexxxt.com:19806/645385720009117848161b4e340f749d
-凤凰资讯台,mitv://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
+凤凰中文台,mitv://135.148.104.228:19806/645385720009117848161b4e340f749d
+凤凰资讯台,mitv://135.148.104.228:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
 凤凰香港台,mitv://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64
 凤凰电影台,mitv://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b
 翡翠台(备),mitv://generationnexxxt.com:19806/03b76f07cea3474a913541c586fc0747
