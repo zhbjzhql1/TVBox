@@ -2,9 +2,9 @@
 TVBox、tivimate等自用源以及仓库源、直播源等
 以下为国内可打开缓存地址：
 
-https://ghproxy.net/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
-
 https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
+
+ https://raw.iqiq.io/mengzehe/tvbox/main/duocang.json
 
 TVBox 配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
