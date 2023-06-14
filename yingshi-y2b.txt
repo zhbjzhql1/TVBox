@@ -14,18 +14,14 @@ TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
-
-
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-
 EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 NHK WORLD,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
-
 Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
 FRANCE 24,https://www.youtube.com/watch?v=h3MuIUNCCzI
 ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
@@ -33,7 +29,6 @@ Euronews English,https://www.youtube.com/watch?v=pykpO5kQJ98
 DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
 ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
 KBS KOREA,https://www.youtube.com/watch?v=HnfpTMtfFk8
-
 NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
 CCTV中文国际,https://www.youtube.com/watch?v=9sE12tg3CmA
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
