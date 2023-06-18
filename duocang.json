@@ -1,4 +1,4 @@
-//=============多仓更新日期 2023/06/11=============
+//=============多仓更新日期 2023/06/18=============
 
 //本多仓仓库在线链接：
 //https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
@@ -7,23 +7,24 @@
 
 {"storeHouse": 
 [ 
-{"sourceName":"自己专用仓","sourceUrl":"https://raw.iqiq.io/mengzehe/tvbox/main/cangku.json" }, 
-{"sourceName":"放学回家仓","sourceUrl":"https://raw.iqiq.io/jigedos/CTTBOX/main/dcpro608.json" }, 
-{"sourceName":"云星在线仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
-{"sourceName":"奇奇在线仓","sourceUrl":"https://raw.iqiq.io/yyfxz/qqtv/main/qq.json"},
-//{"sourceName":"多多聚合多仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/fast.json"},
-{"sourceName":"多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
-{"sourceName":"多多公众仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
-{"sourceName":"多多聚合仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
-{"sourceName":"多多预备仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"},
-{"sourceName":"刘备仓库","sourceUrl":"https://raw.liucn.cc/box/dc.txt" }, 
-{"sourceName":"高天流云仓","sourceUrl":"https://agit.ai/butterfly/md/raw/branch/Zaku/DC-main.json" }, 
-{"sourceName":"超级仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }, 
-{"sourceName":"月光宝盒仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
-{"sourceName":"月光宝盒仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
-{"sourceName":"月光宝盒仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
-{"sourceName":"月光宝盒仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
-{"sourceName":"大烟管仓库①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/ck.txt"},
-{"sourceName":"电视盒子仓","sourceUrl":"http://chuanshuo.77blog.cn/yuan"}
+{"sourceName":"自己专用仓"，"sourceUrl":"https://raw.iqiq.io/mengzehe/tvbox/main/cangku.json" }， 
+{"sourceName":"放学回家仓"，"sourceUrl":"https://raw.iqiq.io/jigedos/CTTBOX/main/dcpro608.json" }， 
+{"sourceName":"云星在线仓"，"sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"}，
+{"sourceName":"奇奇在线仓"，"sourceUrl":"https://raw.iqiq.io/yyfxz/qqtv/main/qq.json"}，
+{"sourceName":"日后多仓"，"sourceUrl":"http://rihou.cc:66/多仓/0.php"}，
+//{"sourceName":"多多聚合多仓"，"sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/fast.json"}，
+{"sourceName":"多多优选仓"，"sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"}，
+{"sourceName":"多多公众仓"，"sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"}，
+{"sourceName":"多多聚合仓"，"sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"}，
+{"sourceName":"多多预备仓"，"sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"}，
+{"sourceName":"刘备仓库"，"sourceUrl":"https://raw.liucn.cc/box/dc.txt" }， 
+{"sourceName":"高天流云仓"，"sourceUrl":"https://agit.ai/butterfly/md/raw/branch/Zaku/DC-main.json" }， 
+{"sourceName":"超级仓库"，"sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt" }， 
+{"sourceName":"月光宝盒仓①"，"sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"}，
+{"sourceName":"月光宝盒仓②"，"sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"}，
+{"sourceName":"月光宝盒仓③"，"sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"}，
+{"sourceName":"月光宝盒仓④"，"sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"}，
+{"sourceName":"大烟管仓库①"，"sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/ck.txt"}，
+{"sourceName":"电视盒子仓"，"sourceUrl":"http://chuanshuo.77blog.cn/yuan"}
 ] 
 }
