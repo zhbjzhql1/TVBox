@@ -4,11 +4,13 @@ TVBox、tivimate等自用源以及仓库源、直播源等
 
 https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
 
- https://raw.iqiq.io/mengzehe/tvbox/main/duocang.json
+https://raw.iqiq.io/mengzehe/tvbox/main/duocang.json
+
+TVBOX接口在线解密：https://www.lige.fit/ua
 
 TVBox 配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
-配置说明：
+# 配置说明：
 
 （1）cangku.json 网络收集的多人配置文件；
 
@@ -27,13 +29,13 @@ TVBox 配置文件。所有资源均来自于各路大神无私分享，如有�
 （8）zyplayer.json 网络收集的用于 ZYPlayer PC端的配置文件。
 
 
-1、给英文不好的朋友
+# 1、给英文不好的朋友
 
 GitHub 中文化插件 🔰https://greasyfork.org/zh-CN/scripts/435208
 
 Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
-2、Github RAW 加速服务
+# 2、Github RAW 加速服务
 
 源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
 
@@ -59,7 +61,7 @@ https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 https://raw.githubusercontents.com/用户名/仓库名/main/接口文件
 
-3，Github 静态加速
+# 3，Github 静态加速
 
 https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
 
@@ -67,7 +69,7 @@ https://cdn.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
 https://purge.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
-4、EGP源
+# 4、EGP源
 
 http://epg.51zmt.top:8000/e.xml
 
@@ -107,7 +109,7 @@ Xml格式
 
 Xml格式
 
-5、开源仓库
+# 5、开源仓库
 
 https://github.com/
 
@@ -125,7 +127,7 @@ https://agit.ai/
 
 https://notabug.org/
 
-6、短地址平台
+# 6、短地址平台
 
 （1）https://short.io
 
@@ -147,7 +149,7 @@ https://notabug.org/
 
 （10）https://www.urlc.cn/
 
-7、TVBox各路大佬配置（排名不分先后）：
+# 7、TVBox各路大佬配置（排名不分先后）：
 
 （1）唐三：https://hutool.ml/tang
 
@@ -197,7 +199,7 @@ https://notabug.org/
 
 （24）肥猫：http://我不是.肥猫.love:63
 
-8、随机轮换壁纸：
+# 8、随机轮换壁纸：
 
 （1）https://bing.img.run/rand.php
 
@@ -221,7 +223,7 @@ https://notabug.org/
 
 （11）https://pictures.catvod.eu.org/
 
-9、工具
+# 9、工具
 
 （1）文本处理： http://www.txttool.com/
 
