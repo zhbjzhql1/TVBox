@@ -5,7 +5,7 @@
 
 {"urls":
 [
-//{"url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/luxian.json"，"name": " 🍃自己专用"}，
+//{"url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/luxian.json"，"name": " 自己专用"}，
 {"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/影视/api.json"，"name":"PizazzGY影视"}，
 {"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/动漫/api.json"，"name":"PizazzGY动漫"}，
 {"url":"https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/体育/api.json"，"name":"PizazzGY体育"}，
