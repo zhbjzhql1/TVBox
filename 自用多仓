@@ -7,7 +7,7 @@
 
 {"storeHouse": 
 [ 
-{"sourceName":"自己专用仓"，"sourceUrl":"https://raw.iqiq.io/mengzehe/tvbox/main/cangku.json" }， 
+{"sourceName":"自己专用仓"，"sourceUrl":"https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓" }， 
 {"sourceName":"放学回家仓"，"sourceUrl":"https://raw.iqiq.io/jigedos/CTTBOX/main/dcpro608.json" }， 
 {"sourceName":"云星在线仓"，"sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"}，
 {"sourceName":"奇奇在线仓"，"sourceUrl":"https://raw.iqiq.io/yyfxz/qqtv/main/qq.json"}，
