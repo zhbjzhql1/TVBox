@@ -16,12 +16,11 @@
 {"url":"http://xhww.fun:63/小米/DEMO.json","name": "小暴脾气"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/master610.json","name": "DYM精选1"},
 {"url":"https://codeberg.org/jgfx/JSJSON/raw/branch/main/a.json","name": "DYM精选2"},
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyfx/main/yyfx.json","name": "分享者线"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyfx/main/yyfx.json","name": "业余分享者"},
 //{"url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json","name": "小胡路线"},
 {"url":"https://xhdwc.tk/0","name": "Ray路线"},
 {"url":"http://itvbox.cc/tvbox/云星日记/1.m3u8","name": "云星家庭线路"},
-{"url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8","name": "云星哔哩线路"},
-//{"url":"http://itvbox.cc/tvbox/云星日记/ali.m3u8","name": "云星阿里线路"},
+//{"url":"http://itvbox.cc/tvbox/云星日记/ali.m3u8","name": "云星阿里线路"}，
 {"url":"https://yydsys.top/duo","name": "多多家庭线路"},
 //{"url":"https://yydsys.top/duo/x.json","name": "多多阿里专线"},
 {"url":"https://raw.liucn.cc/box/m.json","name": "刘备线路"},
@@ -44,15 +43,13 @@
 {"url":"http://home.jundie.top:81/top98.json","name": "俊佬线路"}, 
 {"url":"https://framagit.org/hy31512-maker/XYQTVBox/-/raw/main/XYQTVBox.json","name": "香雅情线"}, 
 {"url":"http://52bsj.vip:98/cl","name":"宝盒汇线"},
-{"url":"http://9xi4o.tk/0725.json","name": "云盘线路"},
-{"url":"https://dybz.store/dybz","name": "大眼线路"},
-{"url":"http://www.dmtv.ml/mao/single.json","name": "乱世线路"},
-{"url":"https://agit.ai/W-TV/xiaomian/raw/branch/master/xmtv.json","name": "免软线路"},
+//{"url":"http://9xi4o.tk/0725.json","name": "云盘线路"}，
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json","name": "大眼线路"},
 {"url":"http://pandown.pro/tvbox/tvbox.json","name": "巧计线路"},
 {"url":"https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json","name": "胖虎线路"},
-{"url":"https://www.agit.ai/n/b/raw/branch/a/b/c.json","name": "ImABC"},
+//{"url":"https://www.agit.ai/n/b/raw/branch/a/b/c.json","name": "ImABC"}，
 {"url":"https://gitee.com/wdc558/TVBox/raw/master/Zhiyunyan.json","name": "纸云烟"},
-{"url":"https://go.owen10086.repl.co/upload/TVBox/夜猫子少儿频道/api.json","name": "夜猫子少儿频道"},
-{"url":"https://agit.ai/376242575/py/raw/branch/py/1/py.txt","name": "央视回放"}
+{"url":"https://go.owen10086.repl.co/upload/TVBox/夜猫子少儿频道/api.json","name": "夜猫子少儿频道"}
+//{"url":"https://agit.ai/376242575/py/raw/branch/py/1/py.txt","name": "央视回放"},
 ]
 }
