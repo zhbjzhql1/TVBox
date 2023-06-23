@@ -33,7 +33,8 @@
 {"url":"https://gh.t4tv.hz.cz/newtang.bmp","name": "新唐线路"},
 {"url":"https://tvbox.cainisi.cf","name": "菜妮丝线" },
 {"url":"http://52bsj.vip:98/wuai","name": "吾爱线路1"},
-{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风线路"},
+//{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风线路"}，
+{"url":"https://gitee.com/xisohi/xhysyuan/raw/master/XC.json","name": "南风线路"},
 {"url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name": "霜辉月明py"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/a.png","name": "Lllyin路线"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json","name": "一木自用"},
