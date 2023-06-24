@@ -1025,18 +1025,18 @@ https://t.me/fongmi_release
 "lives":
 [
 	{
-    "name":"自用晴天直播",
+    "name":"自用收集直播",
     "type":0,
-    "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播晴天源.txt",
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播.txt",
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
 	},
 	{
-    "name":"自用收集直播",
+    "name":"自用晴天直播",
     "type":0,
-    "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播.txt",
+    "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播晴天源.txt",
     "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
