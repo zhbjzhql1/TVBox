@@ -1,3 +1,9 @@
+# clash订阅链接：
+
+项目地址：https://github.com/aiboboxx/clashfree
+
+https://ghproxy.com/https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+
 # TVBox、tivimate、ZYPlayer等自用源以及仓库源、直播源等
 TVBox、tivimate等自用源以及仓库源、直播源等
 以下为国内可打开缓存地址：
