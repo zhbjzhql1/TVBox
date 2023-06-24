@@ -1061,15 +1061,6 @@ https://t.me/fongmi_release
     "logo":"https://epg.112114.xyz/logo/{name}.png"
 	},
 	{
-    "name":"巧记直播",
-    "type":0,
-    "url":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/tvlive.txt",
-    "playerType":1,
-    "ua":"okhttp/3.12.13",
-    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo":"https://epg.112114.xyz/logo/{name}.png"
-	},
-	{
     "name":"应用多多直播",
     "type":0,
     "url":"https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
