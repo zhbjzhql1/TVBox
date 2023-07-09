@@ -213,7 +213,7 @@
 邻里一家亲,http://mmitv.top/pltv/huya.php?id=11342426
 
 
-斗鱼,#genre#
+斗鱼｜综合,#genre#
 周星驰,http://epg.112114.xyz/douyu/122402
 刘德华,http://epg.112114.xyz/douyu/2516864
 好先生,http://epg.112114.xyz/douyu/9650792
@@ -489,7 +489,7 @@ GREAT HUNTER - 4K,http://139.180.210.242/php/youtube.php?id=vQP8AwAFzI8
 Most Beautiful Places 12K,http://139.180.210.242/php/youtube.php?id=Rse-E5tARaY
 4K African Animal,http://139.180.210.242/php/youtube.php?id=rkPCR6Ujtak
 
-5gtv,#genre#
+5gtv｜弯弯,#genre#
 民視新聞台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv13
 寰宇新聞台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn14
 華視新聞資訊台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv052
@@ -511,7 +511,7 @@ ELTV生活英語台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn2
 民視第一台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv003
 半島電視台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv10
 
-音乐,#genre#
+音乐｜MV,#genre#
 动听漫歌,http://re.qiyuevod.com/ckuelb/dy.php?id=9564766
 周董乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=7537296
 余娟乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=3186217
@@ -634,7 +634,7 @@ EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
 EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
 EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
 
-综合,#genre#
+综合｜IPTV,#genre#
 IPTV淘精彩,http://router.tonyliangli.cn:4022/rtp/239.3.1.178:8001
 IPTV萌宠TV,http://router.tonyliangli.cn:4022/rtp/239.3.1.102:8001
 IPTV淘Baby,http://router.tonyliangli.cn:4022/rtp/239.3.1.238:8001
@@ -831,7 +831,7 @@ CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 哒啵赛事,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=4
 哒啵赛事,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 
-网络,#genre#
+网络｜IHOT,#genre#
 IHOT爱娱乐,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
 IHOT爱院线,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 IHOT爱谍战,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
@@ -957,7 +957,7 @@ NewTV古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
 NewTV明星综艺,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
 NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 
-少儿,#genre#
+少儿频道,#genre#
 CCTV-14,http://cc.qiyuevod.com/satv/astv9.php?id=cctv14hd
 CCTV-14,http://cc.qiyuevod.com/satv/bestv8.php?id=cctvsehd8m/8000000
 CCTV-14,http://222.128.98.255:4000/rtp/239.3.1.65:8132
@@ -1043,7 +1043,7 @@ CCTV-14,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 
 
 
-港剧,#genre#
+港剧｜堆堆,#genre#
 埋堆堆01,http://mmitv.top/pltv/huya.php?id=23749096
 埋堆堆02,http://mmitv.top/pltv/huya.php?id=23735126
 埋堆堆03,http://mmitv.top/pltv/huya.php?id=23740156
@@ -1151,7 +1151,7 @@ X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizu
 星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
 MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
 
-电台,#genre#
+电台｜综合,#genre#
 CGTN Radio,http://sk.cri.cn/am846.m3u8
 CRI 环球资讯广播,https://sk.cri.cn/905.m3u8
 CRI 华语环球广播,http://sk.cri.cn/hyhq.m3u8
