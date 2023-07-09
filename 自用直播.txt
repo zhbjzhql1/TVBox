@@ -1,4 +1,3 @@
-*_**********_*蓝҉雨҉直҉播҉源҉*_*********_*
 更新至0707,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 虎牙,#genre#
@@ -502,6 +501,129 @@ ELTV生活英語台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn2
 民視第一台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv003
 半島電視台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv10
 
+音乐,#genre#
+动听漫歌,http://re.qiyuevod.com/ckuelb/dy.php?id=9564766
+周董乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=7537296
+余娟乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=3186217
+音乐抬头,http://re.qiyuevod.com/ckuelb/dy.php?id=8666105
+黑糖音乐,http://re.qiyuevod.com/ckuelb/dy.php?id=9560563
+音乐小琼,http://re.qiyuevod.com/ckuelb/dy.php?id=8666210
+粤语歌姬,http://re.qiyuevod.com/ckuelb/dy.php?id=4728410
+老郑音乐,http://re.qiyuevod.com/ckuelb/dy.php?id=8666143
+喵喵音乐,http://re.qiyuevod.com/ckuelb/dy.php?id=9568091
+女团现场,http://re.qiyuevod.com/ckuelb/dy.php?id=123351
+皇冠壹厅,http://re.qiyuevod.com/ckuelb/dy.php?id=17732
+皇冠贰厅,http://re.qiyuevod.com/ckuelb/dy.php?id=3221207
+秋月剪水,http://re.qiyuevod.com/ckuelb/dy.php?id=9588891
+音乐石榴,http://43.137.29.124/txdirect.flv.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8??
+音乐石榴,http://re.qiyuevod.com/ckuelb/hy.php?id=17091681
+阿兰民歌,http://43.137.29.124/txdirect.flv.huya.com/src/1199549362653-1199549362653-5383685967313895424-2399098848762-10057-A-0-1.m3u8??
+阿兰民歌,http://re.qiyuevod.com/ckuelb/hy.php?id=22970983
+日系乐团,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753556-1099531753556-86439566906490880-2199063630568-10057-A-0-1.m3u8??
+日系乐团,http://re.qiyuevod.com/ckuelb/hy.php?id=21241796
+杰伦专场,http://43.137.29.124/txdirect.flv.huya.com/src/2369489358-2369489358-7174207414657260338-4739102172-10057-A-1670375489-1.m3u8??
+杰伦专场,http://re.qiyuevod.com/ckuelb/hy.php?id=25703092
+奕迅金曲,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753598-1099531753598-86439747295117312-2199063630652-10057-A-0-1.m3u8??
+奕迅金曲,http://re.qiyuevod.com/ckuelb/hy.php?id=21241843
+动听音乐,http://43.137.29.124/txdirect.flv.huya.com/src/1199518370638-1199518370638-5250576276451753984-2399036864732-10057-A-0-1.m3u8??
+动听音乐,http://re.qiyuevod.com/ckuelb/hy.php?id=19439762
+精彩现场,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753573-1099531753573-86439639920934912-2199063630602-10057-A-0-1.m3u8??
+精彩现场,http://re.qiyuevod.com/ckuelb/hy.php?id=21241817
+催眠音乐,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753567-1099531753567-86439614151131136-2199063630590-10057-A-0-1.m3u8??
+催眠音乐,http://re.qiyuevod.com/ckuelb/hy.php?id=21241811
+爵士乐赏,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753534-1099531753534-86439472417210368-2199063630524-10057-A-0-1.m3u8??
+爵士乐赏,http://re.qiyuevod.com/ckuelb/hy.php?id=21241769
+华语翻唱,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753566-1099531753566-86439609856163840-2199063630588-10057-A-0-1.m3u8??
+华语翻唱,http://re.qiyuevod.com/ckuelb/hy.php?id=21241810
+惊艳翻唱,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753571-1099531753571-86439631331000320-2199063630598-10057-A-0-1.m3u8??
+惊艳翻唱,http://re.qiyuevod.com/ckuelb/hy.php?id=21241815
+韩国鼓手,http://re.qiyuevod.com/ckuelb/hy.php?id=21241800
+印度神曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
+欧美动感,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+动感歌曲A,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
+动感歌曲B,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
+动感歌曲C,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
+动感歌曲D,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+华语群星-乘风,http://re.qiyuevod.com/ckuemv/华语群星-乘风.mp4
+Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+韩国动感舞曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
+僵尸跳舞-David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
+Tara-lovey dovey,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
+Alan Walker-Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
+Trouble Maker-Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
+Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
+School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
+Sistar-Give,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
+School-初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
+Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+佳仁-Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+Hellovenus-StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+AOA-短裙,http://re.qiyuevod.com/ckuemv/AOA_短裙.mp4
+AOA-Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+AOA-Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+Stellar 提线木偶,http://re.qiyuevod.com/ckuemv/Stellar_提线木偶.mp4
+
+动听漫歌,http://maomao.kandiantv.cn/douyu1.php?id=9564766
+周董乐台,http://maomao.kandiantv.cn/douyu1.php?id=7537296
+余娟乐台,http://maomao.kandiantv.cn/douyu1.php?id=3186217
+音乐抬头,http://maomao.kandiantv.cn/douyu1.php?id=8666105
+黑糖音乐,http://maomao.kandiantv.cn/douyu1.php?id=9560563
+音乐小琼,http://maomao.kandiantv.cn/douyu1.php?id=8666210
+粤语歌姬,http://maomao.kandiantv.cn/douyu1.php?id=4728410
+老郑音乐,http://maomao.kandiantv.cn/douyu1.php?id=8666143
+喵喵音乐,http://maomao.kandiantv.cn/douyu1.php?id=9568091
+女团现场,http://maomao.kandiantv.cn/douyu1.php?id=123351
+皇冠壹厅,http://maomao.kandiantv.cn/douyu1.php?id=17732
+皇冠贰厅,http://maomao.kandiantv.cn/douyu1.php?id=3221207
+秋月剪水,http://maomao.kandiantv.cn/douyu1.php?id=9588891
+音乐石榴,http://mmitv.top/pltv/huya.php?id=17091681
+阿兰民歌,http://mmitv.top/pltv/huya.php?id=22970983
+日系乐团,http://mmitv.top/pltv/huya.php?id=21241796
+杰伦专场,http://mmitv.top/pltv/huya.php?id=25703092
+奕迅金曲,http://mmitv.top/pltv/huya.php?id=21241843
+动听音乐,http://mmitv.top/pltv/huya.php?id=19439762
+精彩现场,http://mmitv.top/pltv/huya.php?id=21241817
+催眠音乐,http://mmitv.top/pltv/huya.php?id=21241811
+爵士乐赏,http://mmitv.top/pltv/huya.php?id=21241769
+华语翻唱,http://mmitv.top/pltv/huya.php?id=21241810
+惊艳翻唱,http://mmitv.top/pltv/huya.php?id=21241815
+韩国鼓手,http://mmitv.top/pltv/huya.php?id=21241800
+印度神曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
+欧美动感,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+动感歌曲A,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
+动感歌曲B,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
+动感歌曲C,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
+动感歌曲D,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+韩国动感舞曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
+僵尸跳舞-David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
+Tara-lovey dovey,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
+Alan Walker-Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
+Trouble Maker-Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
+Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
+School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
+Sistar-Give,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
+School-初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
+Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+佳仁-Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+Hellovenus-StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
+AOA-Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+AOA-Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
+EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+
 综合,#genre#
 IPTV淘精彩,http://router.tonyliangli.cn:4022/rtp/239.3.1.178:8001
 IPTV萌宠TV,http://router.tonyliangli.cn:4022/rtp/239.3.1.102:8001
@@ -908,128 +1030,7 @@ CCTV-14,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
-音乐,#genre#
-动听漫歌,http://re.qiyuevod.com/ckuelb/dy.php?id=9564766
-周董乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=7537296
-余娟乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=3186217
-音乐抬头,http://re.qiyuevod.com/ckuelb/dy.php?id=8666105
-黑糖音乐,http://re.qiyuevod.com/ckuelb/dy.php?id=9560563
-音乐小琼,http://re.qiyuevod.com/ckuelb/dy.php?id=8666210
-粤语歌姬,http://re.qiyuevod.com/ckuelb/dy.php?id=4728410
-老郑音乐,http://re.qiyuevod.com/ckuelb/dy.php?id=8666143
-喵喵音乐,http://re.qiyuevod.com/ckuelb/dy.php?id=9568091
-女团现场,http://re.qiyuevod.com/ckuelb/dy.php?id=123351
-皇冠壹厅,http://re.qiyuevod.com/ckuelb/dy.php?id=17732
-皇冠贰厅,http://re.qiyuevod.com/ckuelb/dy.php?id=3221207
-秋月剪水,http://re.qiyuevod.com/ckuelb/dy.php?id=9588891
-音乐石榴,http://43.137.29.124/txdirect.flv.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8??
-音乐石榴,http://re.qiyuevod.com/ckuelb/hy.php?id=17091681
-阿兰民歌,http://43.137.29.124/txdirect.flv.huya.com/src/1199549362653-1199549362653-5383685967313895424-2399098848762-10057-A-0-1.m3u8??
-阿兰民歌,http://re.qiyuevod.com/ckuelb/hy.php?id=22970983
-日系乐团,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753556-1099531753556-86439566906490880-2199063630568-10057-A-0-1.m3u8??
-日系乐团,http://re.qiyuevod.com/ckuelb/hy.php?id=21241796
-杰伦专场,http://43.137.29.124/txdirect.flv.huya.com/src/2369489358-2369489358-7174207414657260338-4739102172-10057-A-1670375489-1.m3u8??
-杰伦专场,http://re.qiyuevod.com/ckuelb/hy.php?id=25703092
-奕迅金曲,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753598-1099531753598-86439747295117312-2199063630652-10057-A-0-1.m3u8??
-奕迅金曲,http://re.qiyuevod.com/ckuelb/hy.php?id=21241843
-动听音乐,http://43.137.29.124/txdirect.flv.huya.com/src/1199518370638-1199518370638-5250576276451753984-2399036864732-10057-A-0-1.m3u8??
-动听音乐,http://re.qiyuevod.com/ckuelb/hy.php?id=19439762
-精彩现场,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753573-1099531753573-86439639920934912-2199063630602-10057-A-0-1.m3u8??
-精彩现场,http://re.qiyuevod.com/ckuelb/hy.php?id=21241817
-催眠音乐,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753567-1099531753567-86439614151131136-2199063630590-10057-A-0-1.m3u8??
-催眠音乐,http://re.qiyuevod.com/ckuelb/hy.php?id=21241811
-爵士乐赏,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753534-1099531753534-86439472417210368-2199063630524-10057-A-0-1.m3u8??
-爵士乐赏,http://re.qiyuevod.com/ckuelb/hy.php?id=21241769
-华语翻唱,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753566-1099531753566-86439609856163840-2199063630588-10057-A-0-1.m3u8??
-华语翻唱,http://re.qiyuevod.com/ckuelb/hy.php?id=21241810
-惊艳翻唱,http://43.137.29.124/txdirect.flv.huya.com/src/1099531753571-1099531753571-86439631331000320-2199063630598-10057-A-0-1.m3u8??
-惊艳翻唱,http://re.qiyuevod.com/ckuelb/hy.php?id=21241815
-韩国鼓手,http://re.qiyuevod.com/ckuelb/hy.php?id=21241800
-印度神曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
-欧美动感,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-动感歌曲A,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
-动感歌曲B,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
-动感歌曲C,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
-动感歌曲D,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-华语群星-乘风,http://re.qiyuevod.com/ckuemv/华语群星-乘风.mp4
-Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
-韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-韩国动感舞曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
-泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
-僵尸跳舞-David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
-Tara-lovey dovey,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-Alan Walker-Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
-Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
-Trouble Maker-Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
-Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
-School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
-Sistar-Give,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
-School-初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
-Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
-佳仁-Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
-Hellovenus-StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
-Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
-AOA-短裙,http://re.qiyuevod.com/ckuemv/AOA_短裙.mp4
-AOA-Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
-AOA-Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
-Stellar 提线木偶,http://re.qiyuevod.com/ckuemv/Stellar_提线木偶.mp4
 
-动听漫歌,http://maomao.kandiantv.cn/douyu1.php?id=9564766
-周董乐台,http://maomao.kandiantv.cn/douyu1.php?id=7537296
-余娟乐台,http://maomao.kandiantv.cn/douyu1.php?id=3186217
-音乐抬头,http://maomao.kandiantv.cn/douyu1.php?id=8666105
-黑糖音乐,http://maomao.kandiantv.cn/douyu1.php?id=9560563
-音乐小琼,http://maomao.kandiantv.cn/douyu1.php?id=8666210
-粤语歌姬,http://maomao.kandiantv.cn/douyu1.php?id=4728410
-老郑音乐,http://maomao.kandiantv.cn/douyu1.php?id=8666143
-喵喵音乐,http://maomao.kandiantv.cn/douyu1.php?id=9568091
-女团现场,http://maomao.kandiantv.cn/douyu1.php?id=123351
-皇冠壹厅,http://maomao.kandiantv.cn/douyu1.php?id=17732
-皇冠贰厅,http://maomao.kandiantv.cn/douyu1.php?id=3221207
-秋月剪水,http://maomao.kandiantv.cn/douyu1.php?id=9588891
-音乐石榴,http://mmitv.top/pltv/huya.php?id=17091681
-阿兰民歌,http://mmitv.top/pltv/huya.php?id=22970983
-日系乐团,http://mmitv.top/pltv/huya.php?id=21241796
-杰伦专场,http://mmitv.top/pltv/huya.php?id=25703092
-奕迅金曲,http://mmitv.top/pltv/huya.php?id=21241843
-动听音乐,http://mmitv.top/pltv/huya.php?id=19439762
-精彩现场,http://mmitv.top/pltv/huya.php?id=21241817
-催眠音乐,http://mmitv.top/pltv/huya.php?id=21241811
-爵士乐赏,http://mmitv.top/pltv/huya.php?id=21241769
-华语翻唱,http://mmitv.top/pltv/huya.php?id=21241810
-惊艳翻唱,http://mmitv.top/pltv/huya.php?id=21241815
-韩国鼓手,http://mmitv.top/pltv/huya.php?id=21241800
-印度神曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg56m04gUokIbBswU.mp4
-欧美动感,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
-动感歌曲A,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
-动感歌曲B,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
-动感歌曲C,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
-动感歌曲D,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
-韩国动感舞曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
-韩国动感舞曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
-僵尸跳舞-David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
-Tara-lovey dovey,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
-Alan Walker-Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
-Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
-Trouble Maker-Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
-Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
-School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
-Sistar-Give,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
-School-初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
-Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
-佳仁-Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
-Hellovenus-StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
-Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
-skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
-AOA-Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
-AOA-Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
-EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
-EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
-EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
-EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
 
 
 港剧,#genre#
@@ -1163,4 +1164,3 @@ Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
 Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
 The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
 
-*_**********_*蓝҉雨҉直҉播҉源҉*_*********_*
