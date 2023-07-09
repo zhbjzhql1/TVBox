@@ -1,7 +1,7 @@
 更新至0707,#genre#
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 
-虎牙｜电影,#genre#
+虎牙电影,#genre#
 星爷,http://mmitv.top/pltv/huya.php?id=11342412
 英叔,http://mmitv.top/pltv/huya.php?id=11342421
 发哥,http://mmitv.top/pltv/huya.php?id=11342387
@@ -146,7 +146,7 @@
 怪兽系列,http://sss.iptv8.top/live/huya.php?id=21059554
 陈翔六点半,http://sss.iptv8.top/live/huya.php?id=11274154
 
-虎牙｜解说,#genre#
+虎牙解说,#genre#
 电影狂人,http://mmitv.top/pltv/huya.php?id=18715610
 鹿哥电影,http://mmitv.top/pltv/huya.php?id=24396360
 斌哥漫说,http://mmitv.top/pltv/huya.php?id=18632116
@@ -198,7 +198,7 @@
 虎妞说电影,http://sss.iptv8.top/live/huya.php?id=20343144
 顾久撩电影,http://sss.iptv8.top/live/huya.php?id=16422212
 
-虎牙｜剧集,#genre#
+虎牙剧集,#genre#
 老三国,http://mmitv.top/pltv/huya.php?id=11602081
 新三国,http://mmitv.top/pltv/huya.php?id=11352944
 新水浒,http://mmitv.top/pltv/huya.php?id=11342384
@@ -213,7 +213,7 @@
 邻里一家亲,http://mmitv.top/pltv/huya.php?id=11342426
 
 
-斗鱼｜综合,#genre#
+斗鱼综合,#genre#
 周星驰,http://epg.112114.xyz/douyu/122402
 刘德华,http://epg.112114.xyz/douyu/2516864
 好先生,http://epg.112114.xyz/douyu/9650792
@@ -489,7 +489,7 @@ GREAT HUNTER - 4K,http://139.180.210.242/php/youtube.php?id=vQP8AwAFzI8
 Most Beautiful Places 12K,http://139.180.210.242/php/youtube.php?id=Rse-E5tARaY
 4K African Animal,http://139.180.210.242/php/youtube.php?id=rkPCR6Ujtak
 
-5gtv｜弯弯,#genre#
+5gtv弯弯,#genre#
 民視新聞台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv13
 寰宇新聞台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn14
 華視新聞資訊台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv052
@@ -511,7 +511,7 @@ ELTV生活英語台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn2
 民視第一台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv003
 半島電視台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv10
 
-音乐｜MV,#genre#
+音乐MV,#genre#
 动听漫歌,http://re.qiyuevod.com/ckuelb/dy.php?id=9564766
 周董乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=7537296
 余娟乐台,http://re.qiyuevod.com/ckuelb/dy.php?id=3186217
@@ -634,7 +634,7 @@ EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
 EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
 EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
 
-综合｜IPTV,#genre#
+淘IPTV,#genre#
 IPTV淘精彩,http://router.tonyliangli.cn:4022/rtp/239.3.1.178:8001
 IPTV萌宠TV,http://router.tonyliangli.cn:4022/rtp/239.3.1.102:8001
 IPTV淘Baby,http://router.tonyliangli.cn:4022/rtp/239.3.1.238:8001
@@ -831,7 +831,7 @@ CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 哒啵赛事,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=4
 哒啵赛事,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 
-网络｜IHOT,#genre#
+网络IHOT,#genre#
 IHOT爱娱乐,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=3&channel-id=wasusyt
 IHOT爱院线,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 IHOT爱谍战,http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
@@ -1043,7 +1043,7 @@ CCTV-14,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 
 
 
-港剧｜堆堆,#genre#
+堆堆港剧,#genre#
 埋堆堆01,http://mmitv.top/pltv/huya.php?id=23749096
 埋堆堆02,http://mmitv.top/pltv/huya.php?id=23735126
 埋堆堆03,http://mmitv.top/pltv/huya.php?id=23740156
@@ -1082,76 +1082,155 @@ CCTV-14,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 埋堆堆36,http://mmitv.top/pltv/huya.php?id=23863787
 埋堆堆37,http://mmitv.top/pltv/huya.php?id=23824164
 
-影视｜HBO,#genre#
-HBO,http://208.115.225.174:14165
-HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-WB TV,http://208.115.225.174:14132
-HBO,http://15.235.10.31:14378
-HBO,http://15.235.10.31:14379
-HBO,http://15.235.10.31:14380
-HBO2,http://15.235.10.31:14381
-HBO2,http://15.235.10.31:14382
-HBO2,http://15.235.10.31:14383
-HBO2,http://15.235.10.31:14384
-HBO Mundi,http://15.235.10.31:14385
-HBO Family,http://15.235.10.31:14386
-HBO Family,http://15.235.10.31:14387
-HBO Family,http://15.235.10.31:14388
-@EXM3U,http://15.235.10.31:14389
-Space BR,http://15.235.10.31:14390
-HBO Mundi,http://15.235.10.31:14392
-HBO Mundi,http://15.235.10.31:14393
-HBO Mundi,http://15.235.10.31:14394
-HBO Mundi,http://15.235.10.31:14395
-HBO Pop,http://15.235.10.31:14396
-HBO Pop,http://15.235.10.31:14397
-HBO Pop,http://15.235.10.31:14398
-HBO Pop,http://15.235.10.31:14399
-HBO Signature,http://15.235.10.31:14400
-HBO Signature,http://15.235.10.31:14401
-HBO Signature,http://15.235.10.31:14402
-HBO Signature,http://15.235.10.31:14403
-HBO Xtreme,http://15.235.10.31:14405
-HBO Xtreme,http://15.235.10.31:14406
-HBO Xtreme,http://15.235.10.31:14407
-HBO+,http://15.235.10.31:14408
-HBO+,http://15.235.10.31:14409
-HBO+,http://15.235.10.31:14410
-HBO+,http://15.235.10.31:14411
+中广电台,#genre#
+中广新闻,http://n12.rcs.revma.com/78fm9wyy2tzuv
+中广音乐,http://n07.rcs.revma.com/ks4vsmg3qtzuv
+中广流行,http://n14.rcs.revma.com/aw9uqyxy2tzuv
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
+CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
+CRI 环球资讯广播 FM90.5,http://ls.qingting.fm/live/24035.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
+CRI 中文环球广播,http://ls.qingting.fm/live/4995.m3u8
+CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI 南海之声,http://live.xmcdn.com/live/1054/64.m3u8
+CRI 南海之声,http://ls.qingting.fm/live/62624.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI Hit FM FM88.7,http://live.xmcdn.com/live/75/64.m3u8
+CRI Hit FM FM88.7,http://ls.qingting.fm/live/1007.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI 轻松调频 FM91.5,http://live.xmcdn.com/live/1042/64.m3u8
+CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
+CRI Easy FM – FM91.5,http://sk.cri.cn/915.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI NEWS Plus AM846,http://ls.qingting.fm/live/4584.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+CRI NEWS Plus AM1008,http://ls.qingting.fm/live/4584.m3u8
+CRI Sydney,http://ls.qingting.fm/live/4584.m3u8
+CNR 经济之声,http://live.xmcdn.com/live/1066/64.m3u8
+CNR 经济之声,http://ls.qingting.fm/live/387.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 中国之声,http://live.xmcdn.com/live/1065/64.m3u8
+CNR 中国之声,http://ls.qingting.fm/live/386.m3u8
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 音乐之声,http://live.xmcdn.com/live/12/64.m3u8
+CNR 音乐之声,http://ls.qingting.fm/live/388.m3u8
+CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 经典音乐广播 101.8,http://live.xmcdn.com/live/13/64.m3u8
+CNR 经典音乐广播 101.8,http://ls.qingting.fm/live/389.m3u8
+CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 中华之声,http://live.xmcdn.com/live/14/64.m3u8
+CNR 中华之声,http://ls.qingting.fm/live/390.m3u8
+CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 神州之声,http://live.xmcdn.com/live/15/64.m3u8
+CNR 神州之声,http://ls.qingting.fm/live/391.m3u8
+CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 华夏之声,http://live.xmcdn.com/live/16/64.m3u8
+CNR 华夏之声,http://ls.qingting.fm/live/392.m3u8
+CNR 华夏之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR 香港之声,http://live.xmcdn.com/live/44/64.m3u8
+CNR 香港之声,http://ls.qingting.fm/live/4986.m3u8
+CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR 民族之声,http://live.xmcdn.com/live/17/64.m3u8
+CNR 民族之声,http://ls.qingting.fm/live/394.m3u8
+CNR 民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR 文艺之声,http://live.xmcdn.com/live/38/64.m3u8
+CNR 文艺之声,http://ls.qingting.fm/live/395.m3u8
+CNR 文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 老年之声,http://live.xmcdn.com/live/39/64.m3u8
+CNR 老年之声,http://ls.qingting.fm/live/396.m3u8
+CNR 老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+CNR 中国乡村之声,http://live.xmcdn.com/live/46/64.m3u8
+CNR 中国乡村之声,http://ls.qingting.fm/live/5039.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR 哈语广播,http://live.xmcdn.com/live/1396/64.m3u8
+CNR 哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+CNR 藏语广播,http://ls.qingting.fm/live/4988.m3u8
+CNR 藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+CNR 维语广播,http://live.xmcdn.com/live/40/64.m3u8
+CNR 维语广播,http://ls.qingting.fm/live/4988.m3u8
+CNR 维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+CNR 娱乐广播,http://live.xmcdn.com/live/42/64.m3u8
+CNR 娱乐广播,http://ls.qingting.fm/live/398.m3u8
+CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
+CNR 中国交通广播,http://ls.qingting.fm/live/4985.m3u8
+CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CGTN Radio,http://sk.cri.cn/am846.m3u8
+CRI 环球资讯广播,https://sk.cri.cn/905.m3u8
+CRI 华语环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 南海之声,https://sk.cri.cn/nhzs.m3u8
+CRI 世界华声,http://sk.cri.cn/hxfh.m3u8
+CRI 轻松调频,http://sk.cri.cn/915.m3u8
+CRI 粤语国际,http://sk.cri.cn/hxfh.m3u8
 
-影视｜3D,#genre#
-3D0,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
-3D1,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
-3d4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
-混剪3D,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
-头号玩家,https://vd2.bdstatic.com/mda-kknwdmibvdrfaavv/v1-cae/1080p/mda-kknwdmibvdrfaavv.mp4
-变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
-精美,https://vd4.bdstatic.com/mda-mjak88esahdcpmc5/1080p/cae_h264/1633962937397290860/mda-mjak88esahdcpmc5.mp4
-变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
-Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun6n01ucc.mp4
-玩家,https://vd3.bdstatic.com/mda-kbhkh7z58qvsn0a1/mda-kbhkh7z58qvsn0a1.mp4
-钢铁侠,https://vd4.bdstatic.com/mda-narbupksqbu5yyiy/sc/cae_h264_nowatermark_delogo/1643187081773112317/mda-narbupksqbu5yyiy.mp4
-龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
-终结者,https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
-AA,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
-Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
-东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
-大片3D,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
-裸眼3D,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
-裸眼3D2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
-小丑,https://vd2.bdstatic.com/mda-jkbrts1znp07ryb8/sc/mda-jkbrts1znp07ryb8.mp4
-X战警：黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
-长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
-司藤,https://vd4.bdstatic.com/mda-nae2xzfan0zk06f7/sc/cae_h264_delogo/1642265942028031063/mda-nae2xzfan0zk06f7.mp4
-星球大战9,https://vd3.bdstatic.com/mda-ndfj480755j9juhe/cae_h264_delogo/1650116825326935651/mda-ndfj480755j9juhe.mp4
-MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nzc.mp4
+音乐电台,#genre#
+AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
+AsiaFM 亚洲热歌,http://asiafm.net:8000/asiafmhot
+AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
+AsiaFM 亚洲天空,http://funradio.cn:8000/funradio
+AsiaFM HD音乐台,http://asiafm.hk:8000/asiahd
+AsiaFM 亚洲粤语,http://asiafm.net:8000/asiafmyyt
+AsiaFM 亚洲电台,http://stream.rcs.revma.com/xpgtqc74hv8uv
+AsiaFM 亚太电台,http://stream.rcs.revma.com/kydend74hv8uv
+Big B Radio 中文流行,http://cpop.bigbradio.net/s
+Big B Radio 韩语流行,http://kpop.bigbradio.net/s
+Big B Radio 日语流行,http://jpop.bigbradio.net/s
+Big B Radio 亚洲流行,http://apop.bigbradio.net/s
 
-电台｜综合,#genre#
+CityFM 台南知音,http://fm971.cityfm.tw:8080/971.mp3
+CityFM 城市广播,http://fm929.cityfm.tw:8080/929.mp3
+CityFM 台北健康,http://fm901.cityfm.tw:8080/901.mp3
+CityFM 大苗栗广播,http://fm983.cityfm.tw:8080/983.mp3
+News98 新闻电台,http://n12.rcs.revma.com/55tyxsy4qtzuv
+MY,https://astro1.rastream.com/myfm
+Melody,https://astro3.rastream.com/melody
+8FM,https://mediaprima.rastream.com/mediaprima-onefm
+好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
+CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+环宇广播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+全国广播 M-Radio,http://stream.rcs.revma.com/044q61ha7a0uv
+飞扬调频 FlyRadio,http://stream.rcs.revma.com/e0tdah74hv8uv
+台湾古典音乐电台,http://59.120.88.155:8000/live.mp3
+台北都会音乐电台,https://onair.bravo913.com.tw:9130/live.mp3
+台北广播电台FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+台北广播电台AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+台中古典音乐电台,https://onair.family977.com.tw:8977/live.mp3
+国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+萤火虫网络电台,http://211.149.226.193:8066/1022.mp3
+天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+店头音乐,http://livestream.1766.today:1781/live2.mp3
+私房音乐,http://livestream.1766.today:1769/live1.mp3
+飞碟电台,http://n08.rcs.revma.com/em90w4aeewzuv
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+古典音乐,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+民谣蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+80后音乐,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+格莱美音乐,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+卷卷猫电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+民谣音乐,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+动感音乐,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+南投广播,http://fm997.cityfm.tw:8080/997a.mp3
+
+综合电台,#genre#
 CGTN Radio,http://sk.cri.cn/am846.m3u8
 CRI 环球资讯广播,https://sk.cri.cn/905.m3u8
 CRI 华语环球广播,http://sk.cri.cn/hyhq.m3u8
@@ -1242,3 +1321,81 @@ Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
 Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
 Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
 The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
+
+港台测试,#genre#
+民視,rtmp://219.80.97.77/sat/tv051
+台視,rtmp://219.80.97.77/sat/tv071
+中視,rtmp://219.80.97.77/sat/tv091
+華視,rtmp://219.80.97.77/sat/tv111
+TVBS新聞,rtmp://219.80.97.77/sat/tv551
+TVBS歡樂,rtmp://219.80.97.77/sat/tv421
+東森財經新聞,rtmp://219.80.97.77/sat/tv571
+緯來育樂,rtmp://219.80.97.77/sat/tv701
+緯來體育,rtmp://219.80.97.77/sat/tv721
+ELEVEN1,rtmp://219.80.97.77/sat/tv731
+ELEVEN2,rtmp://219.80.97.77/sat/tv741
+MOMO綜合,rtmp://219.80.97.77/sat/tv761
+緯來日本,rtmp://219.80.97.77/sat/tv771
+ELTA體育1,rtmp://219.80.97.77/sat/md031
+ELEVEN2,rtmp://219.80.97.77/sat/md041
+博斯魅力,rtmp://219.80.97.77/sat/md051
+民視,rtmp://119.81.124.89/sat/tv051
+台視,rtmp://119.81.124.89/sat/tv071
+中視,rtmp://119.81.124.89/sat/tv091
+華視,rtmp://119.81.124.89/sat/tv111
+TVBS新聞,rtmp://119.81.124.89/sat/tv551
+TVBS歡樂,rtmp://119.81.124.89/sat/tv421
+東森財經新聞,rtmp://119.81.124.89/sat/tv571
+緯來育樂,rtmp://119.81.124.89/sat/tv701
+緯來體育,rtmp://119.81.124.89/sat/tv721
+ELEVEN1,rtmp://119.81.124.89/sat/tv731
+ELEVEN2,rtmp://119.81.124.89/sat/tv741
+MOMO綜合,rtmp://119.81.124.89/sat/tv761
+緯來日本,rtmp://119.81.124.89/sat/tv771
+ELTA體育1,rtmp://119.81.124.89/sat/md031
+ELEVEN2,rtmp://119.81.124.89/sat/md041
+博斯魅力,rtmp://119.81.124.89/sat/md051
+東森財經,http://123.51.230.108:18515/.m3u8
+東森戲劇,http://123.51.230.108:18538/.m3u8
+八大第一,http://123.51.230.108:18539/.m3u8
+民視新聞,http://123.51.230.108:18663/.m3u8
+三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
+
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
+明珠台,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
+凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
+龙祥时代,http://lcx-olt.8866.org:8181/tsfile/live/1077_1.m3u8
+东森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
+民视HD,http://120.84.96.130:808/hls/34/index.m3u8
+龙祥时代,http://120.84.96.87:808/hls/35/index.m3u8
+东森电影,http://120.84.96.87:808/hls/32/index.m3u8
+
+中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8
+中天亚洲台,http://162.19.247.76:22222/live/ztyz/index.m3u8
+翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
+TVB J5,http://162.19.247.76:22222/live/tvbj5/index.m3u8
+三立台湾,http://162.19.247.76:22222/live/uch5/index.m3u8
+三立都会台,http://162.19.247.76:22222/live/uch6/index.m3u8
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+天映经典台,http://162.19.247.76:22222/live/tyjd/index.m3u8
+东森戏剧台,http://162.19.247.76:22222/live/dsxj/index.m3u8
+东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8
+欢喜台,http://162.19.247.76:22222/live/uch3/index.m3u8
+AOD,http://162.19.247.76:22222/live/uch7/index.m3u8
+华视,http://162.19.247.76:22222/live/huashi/index.m3u8
+无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
+东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
+天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
+中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
+中天亚洲,http://162.19.247.76:22222/live/ztyz/index.m3u8
+翡翠台,http://162.19.247.76:22222/live/tvbfc/index.m3u8
+无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
+j2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
