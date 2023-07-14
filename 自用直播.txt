@@ -2114,14 +2114,14 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
-鳳凰衛視資訊台,http://tv-live.61073736.repl.co/youtube/if6yQq_JJyY
-TVBS新闻,http://tv-live.61073736.repl.co/youtube/2mCSYvcfhtc
-TVBS NEWS LIVE,http://tv-live.61073736.repl.co/youtube/m_dhMSvUCIc
-TVBS 56頻道,http://tv-live.61073736.repl.co/youtube/YvdcZ_jpLXE
-中天新闻,http://tv-live.61073736.repl.co/youtube/oIgbl7t0S_w
-中天新闻2台,http://tv-live.61073736.repl.co/youtube/WPfPjbOLNfE
-寰宇新聞台,http://tv-live.61073736.repl.co/youtube/B7Zp3d6xXWw
-寰宇新聞台灣台,http://tv-live.61073736.repl.co/youtube/UcTIv4ZaE5Y
+鳳凰衛視資訊台,http://tv-live.61073736.repl.co:35455/youtube/if6yQq_JJyY
+TVBS新闻,http://tv-live.61073736.repl.co:35455/youtube/2mCSYvcfhtc
+TVBS NEWS LIVE,http://tv-live.61073736.repl.co:35455/youtube/m_dhMSvUCIc
+TVBS 56頻道,http://tv-live.61073736.repl.co:35455/youtube/YvdcZ_jpLXE
+中天新闻,http://tv-live.61073736.repl.co:35455/youtube/oIgbl7t0S_w
+中天新闻2台,http://tv-live.61073736.repl.co:35455/youtube/WPfPjbOLNfE
+寰宇新聞台,http://tv-live.61073736.repl.co:35455/youtube/B7Zp3d6xXWw
+寰宇新聞台灣台,http://tv-live.61073736.repl.co:35455/youtube/UcTIv4ZaE5Y
 东森新闻,http://tv-live.61073736.repl.co/youtube/S5WOGu2HSes
 东森LIVE,http://tv-live.61073736.repl.co/youtube/R2iMq5LKXco
 东森财经新闻,http://tv-live.61073736.repl.co/youtube/WHEPzbFA3hw
