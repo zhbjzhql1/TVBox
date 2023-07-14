@@ -2114,6 +2114,44 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
+鳳凰衛視資訊台,http://tv-live.61073736.repl.co/youtube/if6yQq_JJyY
+TVBS新闻,http://tv-live.61073736.repl.co/youtube/2mCSYvcfhtc
+TVBS NEWS LIVE,http://tv-live.61073736.repl.co/youtube/m_dhMSvUCIc
+TVBS 56頻道,http://tv-live.61073736.repl.co/youtube/YvdcZ_jpLXE
+中天新闻,http://tv-live.61073736.repl.co/youtube/oIgbl7t0S_w
+中天新闻2台,http://tv-live.61073736.repl.co/youtube/WPfPjbOLNfE
+寰宇新聞台,http://tv-live.61073736.repl.co/youtube/B7Zp3d6xXWw
+寰宇新聞台灣台,http://tv-live.61073736.repl.co/youtube/UcTIv4ZaE5Y
+东森新闻,http://tv-live.61073736.repl.co/youtube/S5WOGu2HSes
+东森LIVE,http://tv-live.61073736.repl.co/youtube/R2iMq5LKXco
+东森财经新闻,http://tv-live.61073736.repl.co/youtube/WHEPzbFA3hw
+三立新闻,http://tv-live.61073736.repl.co/youtube/oZdzzvxTfUY
+三立 iNEWS 新聞,http://tv-live.61073736.repl.co/youtube/CKjSm5ZeehE
+三立海外直播,http://tv-live.61073736.repl.co/youtube/FoBfXvlOR6I
+民视新闻,http://tv-live.61073736.repl.co/youtube/ylYJSBUgaMA
+華視新聞,http://tv-live.61073736.repl.co/youtube/wM0g8EoUZ_E
+公視新聞,http://tv-live.61073736.repl.co/youtube/quwqlazU-c8
+TaiwanPlus,http://tv-live.61073736.repl.co/youtube/dZp87qnWelE
+鏡新聞,http://tv-live.61073736.repl.co/youtube/5n0y6b0Q25o
+東京都-新宿,http://tv-live.61073736.repl.co/youtube/DjdUEyjx8GM
+台灣地震監視,http://tv-live.61073736.repl.co/youtube/Owke6Quk7T0
+新唐人LIVE,http://tv-live.61073736.repl.co/youtube/WIhgU_mc05A
+信大電視台,http://tv-live.61073736.repl.co/youtube/AQymzwl3uSk
+台視新聞台,http://tv-live.61073736.repl.co/youtube/xL0ch83RAK8
+中視新聞,http://tv-live.61073736.repl.co/youtube/TCnaIE_SAtM
+DW,http://tv-live.61073736.repl.co/youtube/pqabxBKzZ6M
+FRANCE 24,http://tv-live.61073736.repl.co/youtube/h3MuIUNCCzI
+Sky News,http://tv-live.61073736.repl.co/youtube/9Auq9mYxFEE
+ABC News,http://tv-live.61073736.repl.co/youtube/w_Ma8oQLmSM
+Euronews,http://tv-live.61073736.repl.co/youtube/pykpO5kQJ98
+CNA,http://tv-live.61073736.repl.co/youtube/XWq5kBlakcQ
+National Geographic,http://tv-live.61073736.repl.co/youtube/306xLRnW3Cc
+Nat Geo WILD,http://tv-live.61073736.repl.co/youtube/6zGV59Ldp3s
+ANIMALS OF AFRICA 4K,http://tv-live.61073736.repl.co/youtube/XHI_U7suyxg
+GREAT HUNTER - 4K,http://tv-live.61073736.repl.co/youtube/vQP8AwAFzI8
+Most Beautiful Places 12K,http://tv-live.61073736.repl.co/youtube/Rse-E5tARaY
+4K African Animal,http://tv-live.61073736.repl.co/youtube/rkPCR6Ujtak
+
 鳳凰衛視資訊台,http://139.180.210.242/php/youtube.php?id=if6yQq_JJyY
 TVBS新闻,http://139.180.210.242/php/youtube.php?id=2mCSYvcfhtc
 TVBS NEWS LIVE,http://139.180.210.242/php/youtube.php?id=m_dhMSvUCIc
