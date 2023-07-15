@@ -1,6 +1,6 @@
 # 使用Replit部署LiveRedirect项目
 
-PHP地址：https://php-tvlive.61073736.repl.co
+PHP地址：https://php-tvlive.61073736.repl.co/***.php?id={channel}
 
 Golang地址：https://tv-live.61073736.repl.co
 
