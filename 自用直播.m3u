@@ -3776,325 +3776,185 @@ http://epg.112114.xyz/douyu/1504768
 http://epg.112114.xyz/douyu/4505431
 
 
-
-#EXTINF:-1 group-title="央视频道",凤凰中文
+#EXTINF:-1 group-title="央视-蜀小果",凤凰中文
 https://php-tvlive.61073736.repl.co/sxg.php?id=test1_4000
-#EXTINF:-1 group-title="央视频道",凤凰资讯
+#EXTINF:-1 group-title="央视-蜀小果",凤凰资讯
 https://php-tvlive.61073736.repl.co/sxg.php?id=test2_4000
-#EXTINF:-1 group-title="央视频道",CCTV-1 综合
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-1
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-1H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-2 财经
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-2
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-2H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-3 综艺
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-3
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-3H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-4 中文国际
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-4
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-4H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-5 体育
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-5
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-5H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-5+ 体育赛事
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-5+
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-5plusH265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-6 电影
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-6
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-6H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-7 国防军事
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-7
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-7H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-8 电视剧
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-8
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-8H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-9 纪录
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-9
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-9H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-10 科教
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-10
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-10H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-11 戏曲
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-11
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-11-H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-12 社会与法
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-12
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-12H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-13 新闻
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-13
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-xw_4000
-#EXTINF:-1 group-title="央视频道",CCTV-14 少儿
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-14
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-14H265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-15 音乐
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-15
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-15-yyH265_4000
-#EXTINF:-1 group-title="央视频道",CCTV-16 奥林匹克
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-16
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-16_4000
-#EXTINF:-1 group-title="央视频道",CCTV-16 奥林匹克 4K
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-16+
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1 group-title="央视频道",CCTV-17 农业农村
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-17
 https://php-tvlive.61073736.repl.co/sxg.php?id=CCTV-17_4000
-#EXTINF:-1 group-title="央视频道",CCTV-4K 超高清
+#EXTINF:-1 group-title="央视-蜀小果",CCTV-4K
 https://php-tvlive.61073736.repl.co/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1 group-title="央视频道",4K超高清电影 4K
+#EXTINF:-1 group-title="央视-蜀小果",4K超高清电影 4K
 https://php-tvlive.61073736.repl.co/sxg.php?id=emdy4k_8000
-#EXTINF:-1 group-title="央视频道",欢笑剧场4K
+#EXTINF:-1 group-title="央视-蜀小果",欢笑剧场4K
 https://php-tvlive.61073736.repl.co/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1 group-title="",安徽卫视
+
+
+#EXTINF:-1 group-title="卫视-蜀小果",安徽卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=ahwsH265_4000
-#EXTINF:-1 group-title="",北京卫视
+#EXTINF:-1 group-title="卫视-蜀小果",北京卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=bjwsH265_4000
-#EXTINF:-1 group-title="",兵团卫视
+#EXTINF:-1 group-title="卫视-蜀小果",兵团卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=btws_4000
-#EXTINF:-1 group-title="",重庆卫视
+#EXTINF:-1 group-title="卫视-蜀小果",重庆卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=cqwsH265_4000
-#EXTINF:-1 group-title="",东方卫视
+#EXTINF:-1 group-title="卫视-蜀小果",东方卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=dfwsH265_4000
-#EXTINF:-1 group-title="",东南卫视
+#EXTINF:-1 group-title="卫视-蜀小果",东南卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=dnwsfjwsH265_4000
-#EXTINF:-1 group-title="",甘肃卫视
+#EXTINF:-1 group-title="卫视-蜀小果",甘肃卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=gsws_4000
-#EXTINF:-1 group-title="",广东卫视
+#EXTINF:-1 group-title="卫视-蜀小果",广东卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=gdwsH265_4000
-#EXTINF:-1 group-title="",广西卫视
+#EXTINF:-1 group-title="卫视-蜀小果",广西卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=gxws_4000
-#EXTINF:-1 group-title="",贵州卫视
+#EXTINF:-1 group-title="卫视-蜀小果",贵州卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=gzwsH265_4000
-#EXTINF:-1 group-title="",海南卫视
+#EXTINF:-1 group-title="卫视-蜀小果",海南卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=hnws_4000
-#EXTINF:-1 group-title="",河南卫视
+#EXTINF:-1 group-title="卫视-蜀小果",河南卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=hnws35_4000
-#EXTINF:-1 group-title="",黑龙江卫视
+#EXTINF:-1 group-title="卫视-蜀小果",黑龙江卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=hljwsH265_4000
-#EXTINF:-1 group-title="",湖北卫视
+#EXTINF:-1 group-title="卫视-蜀小果",湖北卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=hbwsH265_4000
-#EXTINF:-1 group-title="",湖南卫视
+#EXTINF:-1 group-title="卫视-蜀小果",湖南卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=hnwsH265_4000
-#EXTINF:-1 group-title="",吉林卫视
+#EXTINF:-1 group-title="卫视-蜀小果",吉林卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=jlwsH265_4000
-#EXTINF:-1 group-title="",江苏卫视
+#EXTINF:-1 group-title="卫视-蜀小果",江苏卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=jswsH265_4000
-#EXTINF:-1 group-title="",江西卫视
+#EXTINF:-1 group-title="卫视-蜀小果",江西卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=jxwsH265_4000
-#EXTINF:-1 group-title="",康巴卫视
+#EXTINF:-1 group-title="卫视-蜀小果",康巴卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=kbwsH264_2000
-#EXTINF:-1 group-title="",辽宁卫视
+#EXTINF:-1 group-title="卫视-蜀小果",辽宁卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=lnwsHDH264_4000
-#EXTINF:-1 group-title="",内蒙古卫视
+#EXTINF:-1 group-title="卫视-蜀小果",内蒙古卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=nmgws_4000
-#EXTINF:-1 group-title="",山东教育卫视
+#EXTINF:-1 group-title="卫视-蜀小果",山东教育卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=sdjy_4000
-#EXTINF:-1 group-title="",山东卫视
+#EXTINF:-1 group-title="卫视-蜀小果",山东卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=sdwsH265_4000
-#EXTINF:-1 group-title="",山西卫视
+#EXTINF:-1 group-title="卫视-蜀小果",山西卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=sxws42_4000
-#EXTINF:-1 group-title="",陕西卫视
+#EXTINF:-1 group-title="卫视-蜀小果",陕西卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=sxws_4000
-#EXTINF:-1 group-title="",深圳卫视
+#EXTINF:-1 group-title="卫视-蜀小果",深圳卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=szwsH265_4000
-#EXTINF:-1 group-title="",四川卫视
+#EXTINF:-1 group-title="卫视-蜀小果",四川卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=scwsH265_4000
-#EXTINF:-1 group-title="",天津卫视
+#EXTINF:-1 group-title="卫视-蜀小果",天津卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=tjwsH265_4000
-#EXTINF:-1 group-title="",西藏卫视
+#EXTINF:-1 group-title="卫视-蜀小果",西藏卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=xzwsH264_2000
-#EXTINF:-1 group-title="",云南卫视
+#EXTINF:-1 group-title="卫视-蜀小果",云南卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=ynws_4000
-#EXTINF:-1 group-title="",浙江卫视
+#EXTINF:-1 group-title="卫视-蜀小果",浙江卫视
 https://php-tvlive.61073736.repl.co/sxg.php?id=zjwsH265_4000
-#EXTINF:-1 group-title="",CETV-1
+#EXTINF:-1 group-title="卫视-蜀小果",CETV-1
 https://php-tvlive.61073736.repl.co/sxg.php?id=CETV-1H264_4000
-#EXTINF:-1 group-title="",CHC动作电影
+#EXTINF:-1 group-title="卫视-蜀小果",CHC动作电影
 https://php-tvlive.61073736.repl.co/sxg.php?id=wqCHCdzdyH265_4000
-#EXTINF:-1 group-title="",CHC高清电影
+#EXTINF:-1 group-title="卫视-蜀小果",CHC高清电影
 https://php-tvlive.61073736.repl.co/sxg.php?id=lnwsCHC-HDH265_4000
-#EXTINF:-1 group-title="",CHC家庭影院
+#EXTINF:-1 group-title="卫视-蜀小果",CHC家庭影院
 https://php-tvlive.61073736.repl.co/sxg.php?id=jbtygqCHCjtyyH265_4000
-#EXTINF:-1 group-title="",动漫秀场
+#EXTINF:-1 group-title="卫视-蜀小果",动漫秀场
 https://php-tvlive.61073736.repl.co/sxg.php?id=yybb-dmxc-H265_4000
-#EXTINF:-1 group-title="",都市剧场
+#EXTINF:-1 group-title="卫视-蜀小果",都市剧场
 https://php-tvlive.61073736.repl.co/sxg.php?id=yxfydsjcHDH265_4000
-#EXTINF:-1 group-title="",法治天地
+#EXTINF:-1 group-title="卫视-蜀小果",法治天地
 https://php-tvlive.61073736.repl.co/sxg.php?id=fztx_4000
-#EXTINF:-1 group-title="",极速汽车
+#EXTINF:-1 group-title="卫视-蜀小果",极速汽车
 https://php-tvlive.61073736.repl.co/sxg.php?id=jsqcH265_4000
-#EXTINF:-1 group-title="",纪实科教
+#EXTINF:-1 group-title="卫视-蜀小果",纪实科教
 https://php-tvlive.61073736.repl.co/sxg.php?id=bjjs_2000
-#EXTINF:-1 group-title="",嘉佳卡通
+#EXTINF:-1 group-title="卫视-蜀小果",嘉佳卡通
 https://php-tvlive.61073736.repl.co/sxg.php?id=jjkt_2000
-#EXTINF:-1 group-title="",家庭理财
+#EXTINF:-1 group-title="卫视-蜀小果",家庭理财
 https://php-tvlive.61073736.repl.co/sxg.php?id=jtlc_4000
-#EXTINF:-1 group-title="",江苏财富天下
+#EXTINF:-1 group-title="卫视-蜀小果",江苏财富天下
 https://php-tvlive.61073736.repl.co/sxg.php?id=cftx_4000
-#EXTINF:-1 group-title="",金鹰纪实
+#EXTINF:-1 group-title="卫视-蜀小果",金鹰纪实
 https://php-tvlive.61073736.repl.co/sxg.php?id=jyjsHDH265_4000
-#EXTINF:-1 group-title="",金鹰卡通
+#EXTINF:-1 group-title="卫视-蜀小果",金鹰卡通
 https://php-tvlive.61073736.repl.co/sxg.php?id=jykt_2000
-#EXTINF:-1 group-title="",劲爆体育
+#EXTINF:-1 group-title="卫视-蜀小果",劲爆体育
 https://php-tvlive.61073736.repl.co/sxg.php?id=lqhxjcHDH265_4000
-#EXTINF:-1 group-title="",卡酷少儿
+#EXTINF:-1 group-title="卫视-蜀小果",卡酷少儿
 https://php-tvlive.61073736.repl.co/sxg.php?id=kkkt_4000
-#EXTINF:-1 group-title="",快乐垂钓
+#EXTINF:-1 group-title="卫视-蜀小果",快乐垂钓
 https://php-tvlive.61073736.repl.co/sxg.php?id=fyzqklcdHDH265_4000
-#EXTINF:-1 group-title="",乐游
+#EXTINF:-1 group-title="卫视-蜀小果",乐游
 https://php-tvlive.61073736.repl.co/sxg.php?id=qjs-HDH265_4000
-#EXTINF:-1 group-title="",梨园频道
+#EXTINF:-1 group-title="卫视-蜀小果",梨园频道
 https://php-tvlive.61073736.repl.co/sxg.php?id=ly_4000
-#EXTINF:-1 group-title="",魅力足球
+#EXTINF:-1 group-title="卫视-蜀小果",魅力足球
 https://php-tvlive.61073736.repl.co/sxg.php?id=mlyy_4000
-#EXTINF:-1 group-title="",摄影频道
+#EXTINF:-1 group-title="卫视-蜀小果",摄影频道
 https://php-tvlive.61073736.repl.co/sxg.php?id=sy_4000
-#EXTINF:-1 group-title="",生活时尚
+#EXTINF:-1 group-title="卫视-蜀小果",生活时尚
 https://php-tvlive.61073736.repl.co/sxg.php?id=shssH265_4000
-#EXTINF:-1 group-title="",四海钓鱼
+#EXTINF:-1 group-title="卫视-蜀小果",四海钓鱼
 https://php-tvlive.61073736.repl.co/sxg.php?id=shdy_4000
-#EXTINF:-1 group-title="",天元围棋
+#EXTINF:-1 group-title="卫视-蜀小果",天元围棋
 https://php-tvlive.61073736.repl.co/sxg.php?id=tywq_2000
-#EXTINF:-1 group-title="",武术世界
+#EXTINF:-1 group-title="卫视-蜀小果",武术世界
 https://php-tvlive.61073736.repl.co/sxg.php?id=wssj_4000
-#EXTINF:-1 group-title="",先锋乒羽
+#EXTINF:-1 group-title="卫视-蜀小果",先锋乒羽
 https://php-tvlive.61073736.repl.co/sxg.php?id=xfpy_4000
-#EXTINF:-1 group-title="",新视觉
+#EXTINF:-1 group-title="卫视-蜀小果",新视觉
 https://php-tvlive.61073736.repl.co/sxg.php?id=ycxsjH265_4000
-#EXTINF:-1 group-title="",证劵服务
+#EXTINF:-1 group-title="卫视-蜀小果",证劵服务
 https://php-tvlive.61073736.repl.co/sxg.php?id=jz_2000
-#EXTINF:-1 group-title="",中国天气
+#EXTINF:-1 group-title="卫视-蜀小果",中国天气
 https://php-tvlive.61073736.repl.co/sxg.php?id=zgqx_4000
-#EXTINF:-1 group-title="",中央新影-发现之旅
+#EXTINF:-1 group-title="卫视-蜀小果",中央新影-发现之旅
 https://php-tvlive.61073736.repl.co/sxg.php?id=fxzl_2000
-#EXTINF:-1 group-title="",中央新影-老故事
+#EXTINF:-1 group-title="卫视-蜀小果",中央新影-老故事
 https://php-tvlive.61073736.repl.co/sxg.php?id=lgs_2000
-#EXTINF:-1 group-title="",中央新影-中学生
+#EXTINF:-1 group-title="卫视-蜀小果",中央新影-中学生
 https://php-tvlive.61073736.repl.co/sxg.php?id=zxs_4000
 
 
 
-
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=jswshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",广西卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",四川卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=scwshd/8000000
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=zjwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",东方卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=dfwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",北京卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=bjwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",天津卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=tjwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=ahwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=hljwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",广东卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=gdwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=hubeiws8m/8000000
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=jlwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",山东卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=sdws8m/8000000
-#EXTINF:-1 group-title="卫视频道",江西卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=jxws8m/8000000
-#EXTINF:-1 group-title="卫视频道",河南卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",河北卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=gswshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=cqws8m/8000000
-#EXTINF:-1 group-title="卫视频道",东南卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=dnwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",云南卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=ynwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",海南卫视
-https://php-tvlive.61073736.repl.co/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",欢笑剧场
-https://php-tvlive.61073736.repl.co/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1 group-title="卫视频道",劲爆体育
-https://php-tvlive.61073736.repl.co/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1 group-title="卫视频道",快乐垂钓
-https://php-tvlive.61073736.repl.co/bestv.php?id=klcd8m/8000000
-#EXTINF:-1 group-title="卫视频道",金鹰纪实
-https://php-tvlive.61073736.repl.co/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1 group-title="卫视频道",戏曲精选
-https://php-tvlive.61073736.repl.co/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 group-title="卫视频道",上海第一财经
-https://php-tvlive.61073736.repl.co/bestv.php?id=dycjhd8m/8000000
-#EXTINF:-1 group-title="卫视频道",上视新闻
-https://php-tvlive.61073736.repl.co/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1 group-title="卫视频道",上海都市
-https://php-tvlive.61073736.repl.co/bestv.php?id=dshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",上海纪实
-https://php-tvlive.61073736.repl.co/bestv.php?id=jspdhd/4000000
-#EXTINF:-1 group-title="卫视频道",东方影视
-https://php-tvlive.61073736.repl.co/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",五星体育
-https://php-tvlive.61073736.repl.co/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 group-title="卫视频道",上视外语
-https://php-tvlive.61073736.repl.co/bestv.php?id=icshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",七彩戏剧
-https://php-tvlive.61073736.repl.co/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1 group-title="卫视频道",上海教育
-https://php-tvlive.61073736.repl.co/bestv.php?id=setvhd/8000000
-#EXTINF:-1 group-title="卫视频道",全纪实
-https://php-tvlive.61073736.repl.co/bestv.php?id=qjshd8m/8000000
-#EXTINF:-1 group-title="卫视频道",生活时尚
-https://php-tvlive.61073736.repl.co/bestv.php?id=shss8m/8000000
-#EXTINF:-1 group-title="卫视频道",新视觉
-https://php-tvlive.61073736.repl.co/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1 group-title="卫视频道",游戏风云
-https://php-tvlive.61073736.repl.co/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1 group-title="卫视频道",热门综艺
-https://php-tvlive.61073736.repl.co/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 group-title="卫视频道",超级体育
-https://php-tvlive.61073736.repl.co/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1 group-title="卫视频道",健康养生
-https://php-tvlive.61073736.repl.co/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 group-title="卫视频道",百变课堂
-https://php-tvlive.61073736.repl.co/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1 group-title="卫视频道",看天下精选
-https://php-tvlive.61073736.repl.co/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1 group-title="卫视频道",华语影院
-https://php-tvlive.61073736.repl.co/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="卫视频道",电竞天堂
-https://php-tvlive.61073736.repl.co/bestv.php?id=djtt8m/8000000
-#EXTINF:-1 group-title="卫视频道",青春动漫
-https://php-tvlive.61073736.repl.co/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 group-title="卫视频道",宝宝动画
-https://php-tvlive.61073736.repl.co/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 group-title="卫视频道",星光影院
-https://php-tvlive.61073736.repl.co/bestv.php?id=xgyy8m/8000000
-#EXTINF:-1 group-title="卫视频道",谍战剧场
-https://php-tvlive.61073736.repl.co/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1 group-title="卫视频道",全球大片
-https://php-tvlive.61073736.repl.co/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1 group-title="卫视频道",热门剧场
-https://php-tvlive.61073736.repl.co/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1 group-title="卫视频道",陶瓷高清
-https://php-tvlive.61073736.repl.co/bestv.php?id=taocihd/8000000
-#EXTINF:-1 group-title="卫视频道",中国教育-1
-https://php-tvlive.61073736.repl.co/bestv.php?id=zgjy1t8m/8000000
-#EXTINF:-1 group-title="卫视频道",中国教育-4
-https://php-tvlive.61073736.repl.co/bestv.php?id=zgjy4hd8m/8000000
-#EXTINF:-1 group-title="卫视频道",卡酷少儿
-https://php-tvlive.61073736.repl.co/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 group-title="卫视频道",纪实科教
-https://php-tvlive.61073736.repl.co/bestv.php?id=dajs8m/8000000
-#EXTINF:-1 group-title="卫视频道",茶频道
-https://php-tvlive.61073736.repl.co/bestv.php?id=cpdhdavs8m/8000000
-#EXTINF:-1 group-title="卫视频道",足球高清
-https://php-tvlive.61073736.repl.co/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1 group-title="卫视频道",炫动卡通
-https://php-tvlive.61073736.repl.co/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 group-title="卫视频道",东方财经
-https://php-tvlive.61073736.repl.co/bestv.php?id=dfcjhd8m/8000000
-#EXTINF:-1 group-title="卫视频道",都市剧场
-https://php-tvlive.61073736.repl.co/bestv.php?id=dsjc8m/8000000
-#EXTINF:-1 group-title="卫视频道",动漫秀场
-https://php-tvlive.61073736.repl.co/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1 group-title="卫视频道",法治天地
-https://php-tvlive.61073736.repl.co/bestv.php?id=fztd8m/8000000
-#EXTINF:-1 group-title="卫视频道",金色学堂
-https://php-tvlive.61073736.repl.co/bestv.php?id=jingsepd8m/8000000
-#EXTINF:-1 group-title="卫视频道",魅力足球
-https://php-tvlive.61073736.repl.co/bestv.php?id=mlyyhd8m/8000000
 
 
 
@@ -4102,80 +3962,80 @@ https://php-tvlive.61073736.repl.co/bestv.php?id=mlyyhd8m/8000000
 http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="油管弯弯",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="",TVBS新闻台
+#EXTINF:-1 group-title="油管弯弯",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="",凤凰资讯台
-http://tv-live.61073736.repl.co/youtube.php?id=if6yQq_JJyY
-#EXTINF:-1 group-title="",TVBS新闻
+#EXTINF:-1 group-title="油管弯弯",凤凰资讯台
+http://tv-live.61073736.repl.co/youtube/if6yQq_JJyY
+#EXTINF:-1 group-title="油管弯弯",TVBS新闻
 http://tv-live.61073736.repl.co/youtube/2mCSYvcfhtc
-#EXTINF:-1 group-title="",TVBS NEWS LIVE
+#EXTINF:-1 group-title="油管弯弯",TVBS NEWS LIVE
 http://tv-live.61073736.repl.co/youtube/m_dhMSvUCIc
-#EXTINF:-1 group-title="",TVBS 56頻道
+#EXTINF:-1 group-title="油管弯弯",TVBS 56頻道
 http://tv-live.61073736.repl.co/youtube/YvdcZ_jpLXE
-#EXTINF:-1 group-title="",中天新闻
+#EXTINF:-1 group-title="油管弯弯",中天新闻
 http://tv-live.61073736.repl.co/youtube/oIgbl7t0S_w
-#EXTINF:-1 group-title="",中天新闻2台
+#EXTINF:-1 group-title="油管弯弯",中天新闻2台
 http://tv-live.61073736.repl.co/youtube/WPfPjbOLNfE
-#EXTINF:-1 group-title="",寰宇新聞台
+#EXTINF:-1 group-title="油管弯弯",寰宇新聞台
 http://tv-live.61073736.repl.co/youtube/B7Zp3d6xXWw
-#EXTINF:-1 group-title="",寰宇新聞台灣台
+#EXTINF:-1 group-title="油管弯弯",寰宇新聞台灣台
 http://tv-live.61073736.repl.co/youtube/UcTIv4ZaE5Y
-#EXTINF:-1 group-title="",东森新闻
+#EXTINF:-1 group-title="油管弯弯",东森新闻
 http://tv-live.61073736.repl.co/youtube/S5WOGu2HSes
-#EXTINF:-1 group-title="",东森LIVE
+#EXTINF:-1 group-title="油管弯弯",东森LIVE
 http://tv-live.61073736.repl.co/youtube/R2iMq5LKXco
-#EXTINF:-1 group-title="",东森财经新闻
+#EXTINF:-1 group-title="油管弯弯",东森财经新闻
 http://tv-live.61073736.repl.co/youtube/WHEPzbFA3hw
-#EXTINF:-1 group-title="",三立新闻
+#EXTINF:-1 group-title="油管弯弯",三立新闻
 http://tv-live.61073736.repl.co/youtube/oZdzzvxTfUY
-#EXTINF:-1 group-title="",三立 iNEWS 新聞
+#EXTINF:-1 group-title="油管弯弯",三立 iNEWS 新聞
 http://tv-live.61073736.repl.co/youtube/CKjSm5ZeehE
-#EXTINF:-1 group-title="",三立海外直播
+#EXTINF:-1 group-title="油管弯弯",三立海外直播
 http://tv-live.61073736.repl.co/youtube/FoBfXvlOR6I
-#EXTINF:-1 group-title="",民视新闻
+#EXTINF:-1 group-title="油管弯弯",民视新闻
 http://tv-live.61073736.repl.co/youtube/ylYJSBUgaMA
-#EXTINF:-1 group-title="",華視新聞
+#EXTINF:-1 group-title="油管弯弯",華視新聞
 http://tv-live.61073736.repl.co/youtube/wM0g8EoUZ_E
-#EXTINF:-1 group-title="",公視新聞
+#EXTINF:-1 group-title="油管弯弯",公視新聞
 http://tv-live.61073736.repl.co/youtube/quwqlazU-c8
-#EXTINF:-1 group-title="",TaiwanPlus
+#EXTINF:-1 group-title="油管弯弯",TaiwanPlus
 http://tv-live.61073736.repl.co/youtube/dZp87qnWelE
-#EXTINF:-1 group-title="",鏡新聞
+#EXTINF:-1 group-title="油管弯弯",鏡新聞
 http://tv-live.61073736.repl.co/youtube/5n0y6b0Q25o
-#EXTINF:-1 group-title="",東京都-新宿
+#EXTINF:-1 group-title="油管弯弯",東京都-新宿
 http://tv-live.61073736.repl.co/youtube/DjdUEyjx8GM
-#EXTINF:-1 group-title="",台灣地震監視
+#EXTINF:-1 group-title="油管弯弯",台灣地震監視
 http://tv-live.61073736.repl.co/youtube/Owke6Quk7T0
-#EXTINF:-1 group-title="",新唐人LIVE
+#EXTINF:-1 group-title="油管弯弯",新唐人LIVE
 http://tv-live.61073736.repl.co/youtube/WIhgU_mc05A
-#EXTINF:-1 group-title="",信大電視台
+#EXTINF:-1 group-title="油管弯弯",信大電視台
 http://tv-live.61073736.repl.co/youtube/AQymzwl3uSk
-#EXTINF:-1 group-title="",台視新聞台
+#EXTINF:-1 group-title="油管弯弯",台視新聞台
 http://tv-live.61073736.repl.co/youtube/xL0ch83RAK8
-#EXTINF:-1 group-title="",中視新聞
+#EXTINF:-1 group-title="油管弯弯",中視新聞
 http://tv-live.61073736.repl.co/youtube/TCnaIE_SAtM
-#EXTINF:-1 group-title="",DW
+#EXTINF:-1 group-title="油管弯弯",DW
 http://tv-live.61073736.repl.co/youtube/pqabxBKzZ6M
-#EXTINF:-1 group-title="",FRANCE 24
+#EXTINF:-1 group-title="油管弯弯",FRANCE 24
 http://tv-live.61073736.repl.co/youtube/h3MuIUNCCzI
-#EXTINF:-1 group-title="",Sky News
+#EXTINF:-1 group-title="油管弯弯",Sky News
 http://tv-live.61073736.repl.co/youtube/9Auq9mYxFEE
-#EXTINF:-1 group-title="",ABC News
+#EXTINF:-1 group-title="油管弯弯",ABC News
 http://tv-live.61073736.repl.co/youtube/w_Ma8oQLmSM
-#EXTINF:-1 group-title="",Euronews
+#EXTINF:-1 group-title="油管弯弯",Euronews
 http://tv-live.61073736.repl.co/youtube/pykpO5kQJ98
-#EXTINF:-1 group-title="",CNA
+#EXTINF:-1 group-title="油管弯弯",CNA
 http://tv-live.61073736.repl.co/youtube/XWq5kBlakcQ
-#EXTINF:-1 group-title="",National Geographic
+#EXTINF:-1 group-title="油管弯弯",National Geographic
 http://tv-live.61073736.repl.co/youtube/306xLRnW3Cc
-#EXTINF:-1 group-title="",Nat Geo WILD
+#EXTINF:-1 group-title="油管弯弯",Nat Geo WILD
 http://tv-live.61073736.repl.co/youtube/6zGV59Ldp3s
-#EXTINF:-1 group-title="",ANIMALS OF AFRICA 4K
+#EXTINF:-1 group-title="油管弯弯",ANIMALS OF AFRICA 4K
 http://tv-live.61073736.repl.co/youtube/XHI_U7suyxg
-#EXTINF:-1 group-title="",GREAT HUNTER - 4K
+#EXTINF:-1 group-title="油管弯弯",GREAT HUNTER - 4K
 http://tv-live.61073736.repl.co/youtube/vQP8AwAFzI8
-#EXTINF:-1 group-title="",Most Beautiful Places 12K
+#EXTINF:-1 group-title="油管弯弯",Most Beautiful Places 12K
 http://tv-live.61073736.repl.co/youtube/Rse-E5tARaY
-#EXTINF:-1 group-title="",4K African Animal
+#EXTINF:-1 group-title="油管弯弯",4K African Animal
 http://tv-live.61073736.repl.co/youtube/rkPCR6Ujtak
 
