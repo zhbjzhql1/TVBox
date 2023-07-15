@@ -2,7 +2,7 @@
 
 PHP地址：https://php-tvlive.61073736.repl.co
 
-GOling地址：https://tv-live.61073736.repl.co
+Golang地址：https://tv-live.61073736.repl.co
 
 # clash订阅链接：
 
