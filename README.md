@@ -1,3 +1,9 @@
+# 使用Replit部署LiveRedirect项目
+
+PHP地址：https://php-tvlive.61073736.repl.co
+
+GOling地址：https://tv-live.61073736.repl.co
+
 # clash订阅链接：
 
 项目地址：https://github.com/aiboboxx/clashfree
