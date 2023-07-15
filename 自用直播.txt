@@ -2205,6 +2205,7 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
+凤凰资讯台,http://tv-live.61073736.repl.co/youtube.php?id=if6yQq_JJyY
 TVBS新闻,http://tv-live.61073736.repl.co/youtube/2mCSYvcfhtc
 TVBS NEWS LIVE,http://tv-live.61073736.repl.co/youtube/m_dhMSvUCIc
 TVBS 56頻道,http://tv-live.61073736.repl.co/youtube/YvdcZ_jpLXE
@@ -2242,65 +2243,29 @@ GREAT HUNTER - 4K,http://tv-live.61073736.repl.co/youtube/vQP8AwAFzI8
 Most Beautiful Places 12K,http://tv-live.61073736.repl.co/youtube/Rse-E5tARaY
 4K African Animal,http://tv-live.61073736.repl.co/youtube/rkPCR6Ujtak
 
-鳳凰衛視資訊台,http://139.180.210.242/php/youtube.php?id=if6yQq_JJyY
-TVBS新闻,http://139.180.210.242/php/youtube.php?id=2mCSYvcfhtc
-TVBS NEWS LIVE,http://139.180.210.242/php/youtube.php?id=m_dhMSvUCIc
-TVBS 56頻道,http://139.180.210.242/php/youtube.php?id=YvdcZ_jpLXE
-中天新闻,http://139.180.210.242/php/youtube.php?id=oIgbl7t0S_w
-中天新闻2台,http://139.180.210.242/php/youtube.php?id=WPfPjbOLNfE
-寰宇新聞台,http://139.180.210.242/php/youtube.php?id=B7Zp3d6xXWw
-寰宇新聞台灣台,http://139.180.210.242/php/youtube.php?id=UcTIv4ZaE5Y
-东森新闻,http://139.180.210.242/php/youtube.php?id=S5WOGu2HSes
-东森LIVE,http://139.180.210.242/php/youtube.php?id=R2iMq5LKXco
-东森财经新闻,http://139.180.210.242/php/youtube.php?id=WHEPzbFA3hw
-三立新闻,http://139.180.210.242/php/youtube.php?id=oZdzzvxTfUY
-三立 iNEWS 新聞,http://139.180.210.242/php/youtube.php?id=CKjSm5ZeehE
-三立海外直播,http://139.180.210.242/php/youtube.php?id=FoBfXvlOR6I
-民视新闻,http://139.180.210.242/php/youtube.php?id=ylYJSBUgaMA
-華視新聞,http://139.180.210.242/php/youtube.php?id=wM0g8EoUZ_E
-公視新聞,http://139.180.210.242/php/youtube.php?id=quwqlazU-c8
-TaiwanPlus,http://139.180.210.242/php/youtube.php?id=dZp87qnWelE
-鏡新聞,http://139.180.210.242/php/youtube.php?id=5n0y6b0Q25o
-東京都-新宿,http://139.180.210.242/php/youtube.php?id=DjdUEyjx8GM
-台灣地震監視,http://139.180.210.242/php/youtube.php?id=Owke6Quk7T0
-新唐人LIVE,http://139.180.210.242/php/youtube.php?id=WIhgU_mc05A
-信大電視台,http://139.180.210.242/php/youtube.php?id=AQymzwl3uSk
-台視新聞台,http://139.180.210.242/php/youtube.php?id=xL0ch83RAK8
-中視新聞,http://139.180.210.242/php/youtube.php?id=TCnaIE_SAtM
-DW,http://139.180.210.242/php/youtube.php?id=pqabxBKzZ6M
-FRANCE 24,http://139.180.210.242/php/youtube.php?id=h3MuIUNCCzI
-Sky News,http://139.180.210.242/php/youtube.php?id=9Auq9mYxFEE
-ABC News,http://139.180.210.242/php/youtube.php?id=w_Ma8oQLmSM
-Euronews,http://139.180.210.242/php/youtube.php?id=pykpO5kQJ98
-CNA,http://139.180.210.242/php/youtube.php?id=XWq5kBlakcQ
-National Geographic,http://139.180.210.242/php/youtube.php?id=306xLRnW3Cc
-Nat Geo WILD,http://139.180.210.242/php/youtube.php?id=6zGV59Ldp3s
-ANIMALS OF AFRICA 4K,http://139.180.210.242/php/youtube.php?id=XHI_U7suyxg
-GREAT HUNTER - 4K,http://139.180.210.242/php/youtube.php?id=vQP8AwAFzI8
-Most Beautiful Places 12K,http://139.180.210.242/php/youtube.php?id=Rse-E5tARaY
-4K African Animal,http://139.180.210.242/php/youtube.php?id=rkPCR6Ujtak
+
 
 5gtv弯弯,#genre#
-民視新聞台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv13
-寰宇新聞台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn14
-華視新聞資訊台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv052
-民視旅遊台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv07
-i-Fun動漫台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv15
-愛爾達娛樂台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv070
-民視台灣台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv001
-中視新聞台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv074
-影迷數位電影台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv011
-靖天日本台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv047
-龍華日韓台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn11
-公視戲劇,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv042
-民視無線台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv002
-CNEX紀實頻道,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv013
-龍華電影台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn03
-民視綜藝台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv004
-ELTV生活英語台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-longturn20
-中視無線台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv040
-民視第一台,http://139.180.210.242/php/4gtv_vercel.php?id=4gtv-4gtv003
-半島電視台,http://139.180.210.242/php/4gtv_vercel.php?id=litv-ftv10
+民視新聞台,http://php-tvlive.61073736.repl.co/4gtv/litv-ftv13
+寰宇新聞台,http://php-tvlive.61073736.repl.co/4gtv/litv-longturn14
+華視新聞資訊台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv052
+民視旅遊台,http://php-tvlive.61073736.repl.co/4gtv/litv-ftv07
+i-Fun動漫台,http://php-tvlive.61073736.repl.co/4gtv/litv-ftv15
+愛爾達娛樂台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv070
+民視台灣台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv001
+中視新聞台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv074
+影迷數位電影台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv011
+靖天日本台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv047
+龍華日韓台,http://php-tvlive.61073736.repl.co/4gtv/litv-longturn11
+公視戲劇,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv042
+民視無線台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv002
+CNEX紀實頻道,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv013
+龍華電影台,http://php-tvlive.61073736.repl.co/4gtv/litv-longturn03
+民視綜藝台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv004
+ELTV生活英語台,http://php-tvlive.61073736.repl.co/4gtv/litv-longturn20
+中視無線台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv040
+民視第一台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv003
+半島電視台,http://php-tvlive.61073736.repl.co/4gtv/litv-ftv10
 
 音乐MV,#genre#
 动听漫歌,http://re.qiyuevod.com/ckuelb/dy.php?id=9564766
