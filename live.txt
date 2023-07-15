@@ -3029,7 +3029,7 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
-凤凰资讯台,http://tv-live.61073736.repl.co/youtube.php?id=if6yQq_JJyY
+凤凰资讯台,http://tv-live.61073736.repl.co/youtube/if6yQq_JJyY
 TVBS新闻,http://tv-live.61073736.repl.co/youtube/2mCSYvcfhtc
 TVBS NEWS LIVE,http://tv-live.61073736.repl.co/youtube/m_dhMSvUCIc
 TVBS 56頻道,http://tv-live.61073736.repl.co/youtube/YvdcZ_jpLXE
