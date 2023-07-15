@@ -2049,6 +2049,33 @@ CCTV17,https://php.teamv1.repl.co/bestv.php?id=cctv17hd8m/8000000
 
 
 卫视频道,#genre#
+江苏卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=jswsH265_4000
+北京卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=bjwsH265_4000
+东方卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=dfwsH265_4000
+湖南卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=hnwsH265_4000
+浙江卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=zjwsH265_4000
+广东卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=gdwsH265_4000
+江西卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=jxwsH265_4000
+湖北卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=hbwsH265_4000
+重庆卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=cqwsH265_4000
+安徽卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=ahwsH265_4000
+东南卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=dnwsfjwsH265_4000
+山东卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=sdwsH265_4000
+深圳卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=szwsH265_4000
+天津卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=tjwsH265_4000
+贵州卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=gzwsH265_4000
+吉林卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=jlwsH265_4000
+黑龙江卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=hljwsH265_4000
+四川卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=scwsH265_4000
+甘肃卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=gsws_4000
+云南卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=ynws_4000
+广西卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=gxws_4000
+河南卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=hnws35_4000
+陕西卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=sxws_4000
+山西卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=sxws42_4000
+内蒙古卫视,https://php-tvlive.61073736.repl.co/sxg.php?id=nmgws_4000
+
+
 江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
@@ -2244,6 +2271,23 @@ Most Beautiful Places 12K,http://tv-live.61073736.repl.co/youtube/Rse-E5tARaY
 4K African Animal,http://tv-live.61073736.repl.co/youtube/rkPCR6Ujtak
 
 
+搜集弯弯,#genre#
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+ETRV中国台,http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
+超视34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+ETRV美国,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
+大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
+华语电视1台,http://38.64.72.148/hls/modn/list/4001/chunklist0.m3u8
+华语电视2台,http://38.64.72.148/hls/modn/list/4002/chunklist0.m3u8
+华语电视3台,http://38.64.72.148/hls/modn/list/4003/chunklist0.m3u8
 
 5gtv弯弯,#genre#
 民視新聞台,http://php-tvlive.61073736.repl.co/4gtv/litv-ftv13
@@ -2266,6 +2310,25 @@ ELTV生活英語台,http://php-tvlive.61073736.repl.co/4gtv/litv-longturn20
 中視無線台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv040
 民視第一台,http://php-tvlive.61073736.repl.co/4gtv/4gtv-4gtv003
 半島電視台,http://php-tvlive.61073736.repl.co/4gtv/litv-ftv10
+
+YouTube源,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
+中天新聞,https://www.youtube.com/watch?v=OcvOEPFHwdw
+東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
+EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
+凤凰卫视,https://www.youtube.com/watch?v=dmDg7NfUoSw
+东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
+KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
+东京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
 
 音乐MV,#genre#
 动听漫歌,http://re.qiyuevod.com/ckuelb/dy.php?id=9564766
