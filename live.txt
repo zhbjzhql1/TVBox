@@ -545,7 +545,7 @@ CGTN-英语,https://php-tvlive.61073736.repl.co/sxg.php?id=CGTN_4000
 
 
 凤凰资讯台,http://tv-live.61073736.repl.co/youtube/if6yQq_JJyY
-TVBS新闻,http://tv-live.61073736.repl.co/youtube/2mCSYvcfhtc
+TVBS新闻,http://tv-live.61073736.repl.co/youtube/rAgEV98uFEI
 TVBS NEWS LIVE,http://tv-live.61073736.repl.co/youtube/m_dhMSvUCIc
 TVBS 56頻道,http://tv-live.61073736.repl.co/youtube/YvdcZ_jpLXE
 中天新闻,http://tv-live.61073736.repl.co/youtube/oIgbl7t0S_w
