@@ -1,8 +1,8 @@
 # 使用Replit部署LiveRedirect项目
 
-PHP地址：https://php-tvlive.61073736.repl.co/***.php?id={channel}
+PHP地址：https://php.61073736.repl.co/***.php?id={channel}
 
-Golang地址：https://tv-live.61073736.repl.co
+Golang地址：https://golang.61073736.repl.co/***/{channel}
 
 # clash订阅链接：
 
@@ -14,9 +14,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/aiboboxx/clashfree/main/cl
 TVBox、tivimate等自用源以及仓库源、直播源等
 以下为国内可打开缓存地址：
 
-https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/duocang.json
+https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓
 
-https://raw.iqiq.io/mengzehe/tvbox/main/duocang.json
+https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓
 
 TVBOX接口在线解密：https://www.lige.fit/ua
 
