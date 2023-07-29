@@ -1029,7 +1029,6 @@ https://t.me/fongmi_release
     "name":"小三直播",
     "type":0,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/m3u/main/live.txt",
-    "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
@@ -1038,7 +1037,6 @@ https://t.me/fongmi_release
     "name":"小三M3U",
     "type":0,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/m3u/main/live.m3u",
-    "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
@@ -1047,7 +1045,6 @@ https://t.me/fongmi_release
     "name":"自用晴天直播",
     "type":0,
     "url":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播晴天源.txt",
-    "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
@@ -1056,7 +1053,6 @@ https://t.me/fongmi_release
     "name":"饭太硬直播",
     "type":0,
     "url":"http://ftyyy.tk/live.txt",
-    "playerType":1,
     "ua":"okhttp/3.12.13",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
