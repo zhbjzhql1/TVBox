@@ -31,17 +31,27 @@ proxies:
   - {name: 007-Cloudflare, server: download.yunzhongzhuan.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
   - {name: 008-Cloudflare, server: www.ipchicken.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
   - {name: 009-Cloudflare, server: singapore.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
-  - {name: 010-Cloudflare, server: 47.57.14.1, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 010-Cloudflare, server: whatismyipaddress.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 011-Cloudflare, server: www.baipiao.eu.org, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 012-Cloudflare, server: www.who.int, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 013-Cloudflare, server: www.pcmag.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 014-Cloudflare, server: log.bpminecraft.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 015-Cloudflare, server: www.zsu.gov.ua, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 016-Cloudflare, server: www.iakeys.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 017-Cloudflare, server: www.4chan.org, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 018-Cloudflare, server: www.sean-now.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 019-Cloudflare, server: www.glassdoor.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
+  - {name: 020-Cloudflare, server: www.udemy.com, port: 80, client-fingerprint: random, type: vless, uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1, tls: false, tfo: false, servername: cf-workers-vless.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: cf-workers-vless.61073736.workers.dev}}}
   - {name: 001-JiChang, server: www.whoer.net, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
   - {name: 002-JiChang, server: www.iplocation.net, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
   - {name: 003-JiChang, server: alejandracaiccedo.com, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
   - {name: 004-JiChang, server: iplocation.io, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
-  - {name: 005-JiChang, server: www.visa.com, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
-  - {name: 006-JiChang, server: edtunnel-dgp.pages.dev, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
-  - {name: 007-JiChang, server: www.okcupid.com, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
+  - {name: 005-JiChang, server: www.boba88slot.com, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
+  - {name: 006-JiChang, server: www.wto.org, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
+  - {name: 007-JiChang, server: shopify.com, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
   - {name: 008-JiChang, server: gur.gov.ua, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
-  - {name: 009-JiChang, server: www.gov.ua, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
-  - {name: 010-JiChang, server: www.visakorea.com, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
+  - {name: 009-JiChang, server: icook.tw, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
+  - {name: 010-JiChang, server: fbi.gov, port: 80, client-fingerprint: random, type: vless, uuid: 1ead0bcd-5387-4eaa-a1c7-0f1e5d204e59, tls: false, tfo: false, servername: jichang.61073736.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: jichang.61073736.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -58,6 +68,16 @@ proxy-groups:
       - 008-Cloudflare
       - 009-Cloudflare
       - 010-Cloudflare
+      - 011-Cloudflare
+      - 012-Cloudflare
+      - 013-Cloudflare
+      - 014-Cloudflare
+      - 015-Cloudflare
+      - 016-Cloudflare
+      - 017-Cloudflare
+      - 018-Cloudflare
+      - 019-Cloudflare
+      - 020-Cloudflare
       - 001-JiChang
       - 002-JiChang
       - 003-JiChang
@@ -84,6 +104,16 @@ proxy-groups:
       - 008-Cloudflare
       - 009-Cloudflare
       - 010-Cloudflare
+      - 011-Cloudflare
+      - 012-Cloudflare
+      - 013-Cloudflare
+      - 014-Cloudflare
+      - 015-Cloudflare
+      - 016-Cloudflare
+      - 017-Cloudflare
+      - 018-Cloudflare
+      - 019-Cloudflare
+      - 020-Cloudflare
       - 001-JiChang
       - 002-JiChang
       - 003-JiChang
@@ -110,6 +140,16 @@ proxy-groups:
       - 008-Cloudflare
       - 009-Cloudflare
       - 010-Cloudflare
+      - 011-Cloudflare
+      - 012-Cloudflare
+      - 013-Cloudflare
+      - 014-Cloudflare
+      - 015-Cloudflare
+      - 016-Cloudflare
+      - 017-Cloudflare
+      - 018-Cloudflare
+      - 019-Cloudflare
+      - 020-Cloudflare
       - 001-JiChang
       - 002-JiChang
       - 003-JiChang
@@ -135,6 +175,16 @@ proxy-groups:
       - 008-Cloudflare
       - 009-Cloudflare
       - 010-Cloudflare
+      - 011-Cloudflare
+      - 012-Cloudflare
+      - 013-Cloudflare
+      - 014-Cloudflare
+      - 015-Cloudflare
+      - 016-Cloudflare
+      - 017-Cloudflare
+      - 018-Cloudflare
+      - 019-Cloudflare
+      - 020-Cloudflare
       - 001-JiChang
       - 002-JiChang
       - 003-JiChang
@@ -160,6 +210,16 @@ proxy-groups:
       - 008-Cloudflare
       - 009-Cloudflare
       - 010-Cloudflare
+      - 011-Cloudflare
+      - 012-Cloudflare
+      - 013-Cloudflare
+      - 014-Cloudflare
+      - 015-Cloudflare
+      - 016-Cloudflare
+      - 017-Cloudflare
+      - 018-Cloudflare
+      - 019-Cloudflare
+      - 020-Cloudflare
       - 001-JiChang
       - 002-JiChang
       - 003-JiChang
@@ -185,6 +245,16 @@ proxy-groups:
       - 008-Cloudflare
       - 009-Cloudflare
       - 010-Cloudflare
+      - 011-Cloudflare
+      - 012-Cloudflare
+      - 013-Cloudflare
+      - 014-Cloudflare
+      - 015-Cloudflare
+      - 016-Cloudflare
+      - 017-Cloudflare
+      - 018-Cloudflare
+      - 019-Cloudflare
+      - 020-Cloudflare
       - 001-JiChang
       - 002-JiChang
       - 003-JiChang
@@ -227,6 +297,16 @@ proxy-groups:
       - 008-Cloudflare
       - 009-Cloudflare
       - 010-Cloudflare
+      - 011-Cloudflare
+      - 012-Cloudflare
+      - 013-Cloudflare
+      - 014-Cloudflare
+      - 015-Cloudflare
+      - 016-Cloudflare
+      - 017-Cloudflare
+      - 018-Cloudflare
+      - 019-Cloudflare
+      - 020-Cloudflare
       - 001-JiChang
       - 002-JiChang
       - 003-JiChang
