@@ -2591,6 +2591,8 @@ rules:
 #   - USER-AGENT,YouTubeMusic*,🌍 国外媒体
 #   - USER-AGENT,com.google.ios.youtubemusic*,🌍 国外媒体
   - DOMAIN,music.youtube.com,🌍 国外媒体
+# Emotn Store
+  - DOMAIN-SUFFIX,keeflys.com,🌍 国外媒体
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger
@@ -2611,7 +2613,7 @@ rules:
   - DOMAIN-SUFFIX,cff.pw,🚀 节点选择
   - DOMAIN-SUFFIX,vpnse.org,🚀 节点选择
   - DOMAIN-SUFFIX,cfmem.com,🚀 节点选择
-# 代理列表
+
 # MyList && Other
 # 国外域名
 # 国外域名关键字
