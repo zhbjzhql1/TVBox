@@ -29,7 +29,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 001-Cloudflare                               	#可自定义名称
   type: vless
-  server: cesu.mengxiao3.top                          		#解析的域名或者优选域名IP
+  server: speedtest1.mengxiao3.top                          		#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -44,7 +44,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 002-Cloudflare                               	#可自定义名称
   type: vless
-  server: ip.sb                          		#解析的域名或者优选域名IP
+  server: speedtest2.mengxiao3.top                          		#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -59,7 +59,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 003-Cloudflare                               	#可自定义名称
   type: vless
-  server: malaysia.com                          	#解析的域名或者优选域名IP
+  server: speedtest3.mengxiao3.top                          	#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -74,7 +74,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 004-Cloudflare                               	#可自定义名称
   type: vless
-  server: time.is                          		#解析的域名或者优选域名IP
+  server: speedtest4.mengxiao3.top                          		#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -89,7 +89,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 005-Cloudflare                               	#可自定义名称
   type: vless
-  server: russia.com                          		#解析的域名或者优选域名IP
+  server: speedtest5.mengxiao3.top                          		#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
