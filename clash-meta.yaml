@@ -29,7 +29,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 001-Cloudflare                               	#可自定义名称
   type: vless
-  server: speedtest1.mengxiao3.top                          		#解析的域名或者优选域名IP
+  server: japan.com                          		#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -44,7 +44,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 002-Cloudflare                               	#可自定义名称
   type: vless
-  server: speedtest2.mengxiao3.top                          		#解析的域名或者优选域名IP
+  server: ip.sb                          		#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -59,7 +59,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 003-Cloudflare                               	#可自定义名称
   type: vless
-  server: speedtest3.mengxiao3.top                          	#解析的域名或者优选域名IP
+  server: malaysia.com                          	#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -74,7 +74,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 004-Cloudflare                               	#可自定义名称
   type: vless
-  server: speedtest4.mengxiao3.top                          		#解析的域名或者优选域名IP
+  server: time.is                          		#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -89,7 +89,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 005-Cloudflare                               	#可自定义名称
   type: vless
-  server: speedtest5.mengxiao3.top                          		#解析的域名或者优选域名IP
+  server: russia.com                          		#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -104,7 +104,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 006-Cloudflare                               	#可自定义名称
   type: vless
-  server: www.hugedomains.com                          	#解析的域名或者优选域名IP
+  server: speedtest1.mengxiao3.top                          	#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -119,7 +119,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 007-Cloudflare                               	#可自定义名称
   type: vless
-  server: download.yunzhongzhuan.com                    #解析的域名或者优选域名IP
+  server: speedtest2.mengxiao3.top                    #解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -134,7 +134,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 008-Cloudflare                               	#可自定义名称
   type: vless
-  server: www.iplocation.net                          	#解析的域名或者优选域名IP
+  server: speedtest3.mengxiao3.top                          	#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -149,7 +149,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 009-Cloudflare                               	#可自定义名称
   type: vless
-  server: iplocation.io                          	#解析的域名或者优选域名IP
+  server: speedtest4.mengxiao3.top                          	#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
@@ -164,7 +164,7 @@ proxies:
 #==============================（vless-ws节点）
 - name: 010-Cloudflare                               	#可自定义名称
   type: vless
-  server: singapore.com                          	#解析的域名或者优选域名IP
+  server: speedtest5.mengxiao3.top                          	#解析的域名或者优选域名IP
   port: 80                                       	#自定义的端口
   uuid: f2b45d0c-ce7b-4d2a-b35a-d6c05af299f1       	#自定义的uuid
   udp: true
