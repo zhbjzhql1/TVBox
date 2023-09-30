@@ -2593,6 +2593,8 @@ rules:
   - DOMAIN,music.youtube.com,🌍 国外媒体
 # Emotn Store
   - DOMAIN-SUFFIX,keeflys.com,🌍 国外媒体
+# v2rayssr.com
+  - DOMAIN-SUFFIX,v2rayssr.com,🌍 国外媒体
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger
