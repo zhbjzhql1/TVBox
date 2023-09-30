@@ -263,8 +263,8 @@ proxy-groups:
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
-      - 🎯 全球直连
       - 🚀 节点选择
+      - 🎯 全球直连
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
