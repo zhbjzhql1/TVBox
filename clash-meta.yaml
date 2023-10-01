@@ -2627,6 +2627,8 @@ rules:
   - DOMAIN-SUFFIX,keeflys.com,♻️ 自动选择
 # v2rayssr.com
   - DOMAIN-SUFFIX,v2rayssr.com,♻️ 自动选择
+# Google Bard
+  - DOMAIN-SUFFIX,bard.google.com/,♻️ 自动选择
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger
