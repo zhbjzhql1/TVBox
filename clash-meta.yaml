@@ -2624,9 +2624,9 @@ rules:
 #   - USER-AGENT,com.google.ios.youtubemusic*,🌍 国外媒体
   - DOMAIN,music.youtube.com,🌍 国外媒体
 # Emotn Store
-  - DOMAIN-SUFFIX,keeflys.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,keeflys.com,♻️ 自动选择
 # v2rayssr.com
-  - DOMAIN-SUFFIX,v2rayssr.com,🌍 国外媒体
+  - DOMAIN-SUFFIX,v2rayssr.com,♻️ 自动选择
 # Telegram
 #PROCESS-NAME,Telegram.exe
 #PROCESS-NAME,org.telegram.messenger
