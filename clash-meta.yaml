@@ -264,6 +264,24 @@ proxy-groups:
     type: select
     proxies:
       - 🚀 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - 001-Cloudflare
+      - 002-Cloudflare
+      - 003-Cloudflare
+      - 004-Cloudflare
+      - 005-Cloudflare
+      - 006-Cloudflare
+      - 007-Cloudflare
+      - 008-Cloudflare
+      - 009-Cloudflare
+      - 010-Cloudflare
+      - 001-JiChang
+  - name: 💬 OpenAi
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - ♻️ 自动选择
       - 🎯 全球直连
       - 001-Cloudflare
       - 002-Cloudflare
@@ -2185,6 +2203,21 @@ rules:
   - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
   - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
+# OpenAi
+  - DOMAIN-KEYWORD,openai,💬 OpenAi
+  - DOMAIN-SUFFIX,auth0.com,💬 OpenAi
+  - DOMAIN-SUFFIX,challenges.cloudflare.com,💬 OpenAi
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com,💬 OpenAi
+  - DOMAIN-SUFFIX,events.statsigapi.net,💬 OpenAi
+  - DOMAIN-SUFFIX,featuregates.org,💬 OpenAi
+  - DOMAIN-SUFFIX,identrust.com,💬 OpenAi
+  - DOMAIN-SUFFIX,intercom.io,💬 OpenAi
+  - DOMAIN-SUFFIX,intercomcdn.com,💬 OpenAi
+  - DOMAIN-SUFFIX,openai.com,💬 OpenAi
+  - DOMAIN-SUFFIX,chat.openai.com,💬 OpenAi
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,💬 OpenAi
+  - DOMAIN-SUFFIX,sentry.io,💬 OpenAi
+  - DOMAIN-SUFFIX,stripe.com,💬 OpenAi
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
   - DOMAIN,apple.comscoreresearch.com,🍎 苹果服务
@@ -2651,7 +2684,6 @@ rules:
   - DOMAIN-SUFFIX,adguard.org,🚀 节点选择
   - DOMAIN-SUFFIX,bit.no.com,🚀 节点选择
   - DOMAIN-SUFFIX,btlibrary.me,🚀 节点选择
-  - DOMAIN-SUFFIX,chat.openai.com,🚀 节点选择
   - DOMAIN-SUFFIX,cloudcone.com,🚀 节点选择
   - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
   - DOMAIN-SUFFIX,gameloft.com,🚀 节点选择
@@ -2662,7 +2694,6 @@ rules:
   - DOMAIN-SUFFIX,linkedin.com,🚀 节点选择
   - DOMAIN-SUFFIX,myteamspeak.com,🚀 节点选择
   - DOMAIN-SUFFIX,notion.so,🚀 节点选择
-  - DOMAIN-SUFFIX,openai.com,🚀 节点选择
   - DOMAIN-SUFFIX,ping.pe,🚀 节点选择
   - DOMAIN-SUFFIX,reddit.com,🚀 节点选择
   - DOMAIN-SUFFIX,teddysun.com,🚀 节点选择
