@@ -232,7 +232,6 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
-      - 🎯 全球直连
       - 001-Cloudflare
       - 002-Cloudflare
       - 003-Cloudflare
