@@ -35,11 +35,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 002-Cloudflare                               	#可自定义名称
@@ -50,11 +50,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 003-Cloudflare                               	#可自定义名称
@@ -65,11 +65,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 004-Cloudflare                               	#可自定义名称
@@ -80,11 +80,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 005-Cloudflare                               	#可自定义名称
@@ -95,11 +95,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 006-Cloudflare                               	#可自定义名称
@@ -110,11 +110,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 007-Cloudflare                               	#可自定义名称
@@ -125,11 +125,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 008-Cloudflare                               	#可自定义名称
@@ -140,11 +140,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 009-Cloudflare                               	#可自定义名称
@@ -155,11 +155,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 010-Cloudflare                               	#可自定义名称
@@ -170,11 +170,11 @@ proxies:
   udp: true
   tls: false
   network: ws
-  servername: cf-workers-vless.61073736.workers.dev	#sni域名，与下面的host一致
+  servername: daili.61073736.workers.dev	#sni域名，与下面的host一致
   ws-opts:
     path: "/?ed=2048"                              	#" "内自定义的path路径
     headers:
-      Host: cf-workers-vless.61073736.workers.dev	#host域名，与上面的servername一致
+      Host: daili.61073736.workers.dev	#host域名，与上面的servername一致
 
 #==============================（vless-ws节点）
 - name: 001-JiChang                               	#可自定义名称
