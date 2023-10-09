@@ -3981,11 +3981,12 @@ rules:
   - IP-CIDR,101.198.192.0/19,🎯 全球直连,no-resolve
   - IP-CIDR,101.199.196.0/22,🎯 全球直连,no-resolve
 # Public Direct CDN 公共直连
-  - DOMAIN-SUFFIX,ajax.aspnetcdn.com,♻️ 自动选择
-  - DOMAIN-SUFFIX,ajax.cloudflare.com,♻️ 自动选择
-  - DOMAIN-SUFFIX,cdnjs.cloudflare.com,♻️ 自动选择
-  - DOMAIN-SUFFIX,code.jquery.com,♻️ 自动选择
-  - DOMAIN-SUFFIX,v2rayse.com,♻️ 自动选择
+  - DOMAIN-SUFFIX,ajax.aspnetcdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ajax.cloudflare.com,🎯 全球直连
+  - DOMAIN-SUFFIX,cdnjs.cloudflare.com,🎯 全球直连
+  - DOMAIN-SUFFIX,workers.dev,🎯 全球直连
+  - DOMAIN-SUFFIX,code.jquery.com,🎯 全球直连
+  - DOMAIN-SUFFIX,v2rayse.com,🎯 全球直连
 
   - GEOIP,CN,🎯 全球直连
   - MATCH,🐟 漏网之鱼
