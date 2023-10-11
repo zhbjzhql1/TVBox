@@ -8956,8 +8956,8 @@ rules:
   - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
   - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
   - DOMAIN-SUFFIX,gcr.io,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.com,🚀 节点选择
-  - DOMAIN-SUFFIX,gitlab.io,🚀 节点选择
+#  - DOMAIN-SUFFIX,gitlab.com,🚀 节点选择
+#  - DOMAIN-SUFFIX,gitlab.io,🚀 节点选择
   - DOMAIN-SUFFIX,jitpack.io,🚀 节点选择
   - DOMAIN-SUFFIX,maven.org,🚀 节点选择
   - DOMAIN-SUFFIX,medium.com,🚀 节点选择
