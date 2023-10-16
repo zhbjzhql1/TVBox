@@ -4,7 +4,7 @@ PHP地址：https://php.61073736.repl.co/***.php?id={channel}
 
 Golang地址：https://golang.61073736.repl.co/***/{channel}
 
-例如：https://golang.61073736.repl.co/huya/11342412
+例如：https://golang.61073736.repl.co/huya/23865142
 
 # clash订阅链接：
 
