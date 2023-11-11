@@ -560,8 +560,9 @@
     {
       "name": "小三Live",
       "type": 0,
+      "boot": true,
       "playerType": 1,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/m3u/main/live.txt",
+      "url": "https://raw.githubusercontent.com/mengzehe/m3u/main/live.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
