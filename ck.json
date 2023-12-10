@@ -1,4 +1,4 @@
-//=============单仓更新日期 2023/10/24=============
+//=============单仓更新日期 2023/12/10=============
 //本单仓库在线链接：
 //https://raw.githubusercontent.com/mengzehe/tvbox/main/ck.json
 //https://raw.iqiq.io/mengzehe/tvbox/main/ck.json
@@ -23,13 +23,11 @@
 {"name": "菜妮丝线","url":"https://tvbox.cainisi.cf"},
 {"name": "道长路线","url":"https://pastebin.com/raw/5NHaxyGR"},
 {"name": "吾爱线一","url":"http://52bsj.vip:98/wuai"},
-{"name": "吾爱线二","url":"http://52bsj.vip:98/0805"},
-{"name": "南风线路","url":"https://gitee.com/xisohi/xhysyuan/raw/master/XC.json"},
 {"name": "霜辉月明","url":"https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
 {"name": "一木自用","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
 {"name": "蜂蜜在线","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 //{"name": "蜂蜜在线","url":"https://蜂蜜.eu.org"}，
 {"name": "高天流云","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
-{"name": "俊佬线路","url":"http://home.jundie.top:81/top98.json"}, 
+//{"name": "俊佬线路","url":"http://home.jundie.top:81/top98.json"}, 
 {"name": "宝盒汇线","url":"http://52bsj.vip:98/cl"}
 ]}
